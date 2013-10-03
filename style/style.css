@@ -254,7 +254,7 @@ background:#406903 !important;
 
 header{
 background:url('../img/green.jpg') no-repeat;
-height:550px;
+min-height:550px;
 text-align:center;
 padding-top:70px;
 color:#fff;
@@ -399,6 +399,32 @@ line-height:20px;
     margin: 10px 0 20px 0;
 }
 
+/* button */
+
+a.action-button:hover {
+ opacity:1;
+    
+}
+
+a.action-button {
+padding: 25px 33px;
+font-size: 30px;
+color: #fff;
+display: inline-block;
+background-color: #e31212;
+text-decoration: none;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+    margin: 30px;
+    opacity:0.8;
+}
+
+a.small-button{
+    padding: 18px 26px;
+    font-size: 18px;
+}
+
 /* Wedding */
 
 .wedding{
@@ -426,6 +452,9 @@ margin-left:15px;
 /* Responsive */
 
 @media (max-width: 480px){
+    .well img{
+        height: 70px;
+    }
    header{
    padding-top:20px !important;
    }
@@ -438,10 +467,22 @@ margin-left:15px;
    }
    .flex-caption{
    display:none;
-   }   
+   }
+    a.action-button {
+        padding: 20px 28px;
+        font-size: 20px;
+    }
+
+    a.small-button{
+        padding: 18px 26px;
+        font-size: 18px;
+    }
 }
 
 @media (max-width: 767px){
+    .well img{
+        height: 100px;
+    }
    .container{
 	width:100%;
    }
@@ -471,17 +512,38 @@ margin-left:15px;
    }   
    form button{
    margin-left:0px;
-   }   
+   }
+    a.action-button {
+        padding: 23px 30px;
+        font-size: 25px;
+    }
+
+    a.small-button{
+        padding: 18px 26px;
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 979px){
    .container{
 	width:100%;
    }
+    .well img{
+        height: 120px;
+    }
    
    
    .navbar{
    text-align:center;
-   }   
+   }
+    a.action-button {
+        padding: 25px 33px;
+        font-size: 30px;
+    }
+
+    a.small-button{
+        padding: 18px 26px;
+        font-size: 18px;
+    }
   
 }
