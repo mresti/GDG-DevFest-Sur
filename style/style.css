@@ -394,6 +394,11 @@ font-size:13px;
 line-height:20px;
 }
 
+/* banner */
+.well img{
+    margin: 10px 0 20px 0;
+}
+
 /* Wedding */
 
 .wedding{
