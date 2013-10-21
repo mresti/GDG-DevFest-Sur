@@ -1,4 +1,4 @@
-GDG-DevFest-wedding
+GDG-DevFest
 ===================
 
-Wedding bootstrap design
+GDG-DevFest theme based on Wedding bootstrap design
