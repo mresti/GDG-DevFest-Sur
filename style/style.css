@@ -440,6 +440,23 @@ margin-top:4px;
 margin-right:2px;
 }
 
+.col6{width:45%;float:left;margin-left:5%;}
+.col10 {width:75%;float:left;margin-left:5%;}
+.solouna{float:left;margin-left:0.8%;width:98.2%;border-bottom:1px solid #EEEEEE;background:#C1CEA0;}
+.solouna .col2{margin-left:0.7%;width:6.5%}
+.solouna .col10 span{text-align:center;width:100%;}
+.col2{width:14%;float:left;margin-left:1.5%}
+.col4{width:30%;float:left;margin-left:3.33}
+.aligncenter2 span{text-align:center;}
+.columna1{border-bottom:1px solid #EEEEEE;background:#5A81C1;color:#ffffff;}
+.columna1 span{color:#ffffff;}
+.columna2{border-bottom:1px solid #EEEEEE;background:#F7C640;}
+.col6.columna1{margin-left:2.3%;}
+#tablaprograma{font-size:16px;display:table;width:100%;}
+#tablaprograma div{height:42px;border-radius:4px;}
+#tablaprograma div span{margin-top:8px;float:left;}
+#cabecera span{font-size:20px;line-height:24px;width:100%;}
+
 /* Form */
 
 form button{
