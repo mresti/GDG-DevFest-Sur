@@ -53,7 +53,7 @@
                <div class="about">
                   <!-- Groom details with photo -->
                   <h3>José Ignacio Álvarez <span class="ameta">Desarrollador Android en WUL4</span></h3>
-                  <p> <img src="https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png" alt="" />Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android.</p>
+                  <p> <img src="https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png" alt="" class="img-circle"/>Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android.</p>
 									<div style="clear:both"></div>
                </div>
             </div>
@@ -61,7 +61,7 @@
                <div class="about">
                   <!-- Groom details with photo -->
                   <h3>Javier Gutierrez <span class="ameta">- Las claves del Desarrollo Dirigido por Pruebas.</span></h3>
-                  <p> <img src="img/speakers/javier.png" alt="" />Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.</p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software.</p></div>
+                  <p> <img src="img/speakers/javier.png" alt="" class="img-circle"/>Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.</p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software.</p></div>
 									<div style="clear:both"></div>
                </div>
             </div>
@@ -69,7 +69,7 @@
                <div class="about">
                   <!-- Groom details with photo -->
                   <h3>Fernando Hidalgo <span class="ameta">- Modularizando Android: Maven.</span></h3>
-                  <p> <img src="https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png" alt="" />Desarrollador web y tecnologías smartphones, analista/programador, mantenimiento de sistemas y servidores linux.</p>
+                  <p> <img src="https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png" alt="" class="img-circle"/>Desarrollador web y tecnologías smartphones, analista/programador, mantenimiento de sistemas y servidores linux.</p>
 									<p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web/app sencillas para problemas no triviales.</p>
 									<p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo.</p>
 									<div style="clear:both"></div>
