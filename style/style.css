@@ -382,6 +382,10 @@ box-shadow:inset 0px 0px 3px #ccc;
 background:#fff;
 }
 
+.rrss img {
+	float: right;
+}
+
 .about h3{
 font-weight:700;
 }
