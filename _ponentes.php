@@ -16,6 +16,10 @@
             <div class="span12">
                <div class="about">
                   <!-- Groom details with photo -->
+									<div class="rrss">
+										<a href="http://www.linkedin.com/in/julianmb"><img src="img/rrss/LinkedIn.png"></a>										
+										<a href="https://twitter.com/julianmb"><img src="img/rrss/Twitter.png"></a>		
+									</div>
                   <h3>Julián Beltrán <span class="ameta">CEO at Droiders</span></h3>
                   <p> <img src="img/speakers/julianbeltran.jpg" alt="" class="img-circle"/>Emprendedor del sector de las tecnologías de la información y comunicaciones. Fundador de Beltia y deDroiders, empresa especializada en aplicaciones para Android.</p>
 									<div style="clear:both"></div>
@@ -24,7 +28,8 @@
             <div class="span12">
                <div class="about">
                   <!-- Groom details with photo -->
-                  <h3>Alfredo Artiles <span class="ameta">SocialBro Co-founder and CTO</span></h3>
+                  <h3>Alfredo Artiles <span class="ameta">SocialBro Co-founder and CTO</span>
+									</h3>
                   <p> <img src="img/speakers/alfredoartiles.jpg" alt="" class="img-circle"/>Cubano y cordobés de adopción, es licenciado en Ciencias de la Computación por la Universidad Central de Las Villas y lleva 12 años desarrollando proyectos en Internet.</p>
 									<p>Co-fundador y director de tecnología de equipo24 S.L., empresa especializada en el desarrollo de soluciones socialmedia. Ha liderado el desarrollo de la plataforma de presentadores virtualese24Presenter y de la mayor red de aplicaciones de Twitter en España: e24Apps Network, donde destacan aplicaciones comoFollowFriday.com, Resonancers.com, FilterTweeps.com, FriendLynx, LocaFollow.com, entre otras. Actualmente lidera el desarrollo de SocialBro, una herramienta de análisis y gestión de contactos en Twitter con una gran tendencia a CRM social.</p>
 									<div style="clear:both"></div>
@@ -60,7 +65,7 @@
             <div class="span12">
                <div class="about">
                   <!-- Groom details with photo -->
-                  <h3>Javier Gutierrez <span class="ameta">- Las claves del Desarrollo Dirigido por Pruebas.</span></h3>
+                  <h3>Javier Gutierrez <span class="ameta">- Profesor en Universidad de Sevilla.</span></h3>
                   <p> <img src="img/speakers/javier.png" alt="" class="img-circle"/>Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.</p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software.</p></div>
 									<div style="clear:both"></div>
                </div>
@@ -68,7 +73,7 @@
             <div class="span12">
                <div class="about">
                   <!-- Groom details with photo -->
-                  <h3>Fernando Hidalgo <span class="ameta">- Modularizando Android: Maven.</span></h3>
+                  <h3>Fernando Hidalgo <span class="ameta">- Analista/Programador, fundador de Sopinet.</span></h3>
                   <p> <img src="https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png" alt="" class="img-circle"/>Desarrollador web y tecnologías smartphones, analista/programador, mantenimiento de sistemas y servidores linux.</p>
 									<p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web/app sencillas para problemas no triviales.</p>
 									<p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo.</p>
