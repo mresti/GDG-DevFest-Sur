@@ -32,7 +32,11 @@
             <div class="head well">
               <h3>PLATA</h3>
 						</div>
-						<p>Sé el primer patrocinador plata del DevFest Sur</p>
+						<p>
+							<a href="http://intelify.net/" target="_blank">
+								<img width="295" height="85" src="img/intelify_logo.png" title="Intelify" alt="Intelify" border="0">
+							</a>
+						</p>
 				</div>
 
 		</div>
