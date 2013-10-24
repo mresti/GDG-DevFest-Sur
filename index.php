@@ -60,6 +60,7 @@
             <li><a href="#organizadores" class="anchorLink">Organizadores</a></li>
 						<li><a href="#ponentes" class="anchorLink">Ponentes</a></li>
 						<li><a href="#programa" class="anchorLink">Programa</a></li>
+						<li><a href="#colaboradores" class="anchorLink">Colaboradores</a></li>
             <li><a href="#patrocinadores" class="anchorLink">Patrocinadores</a></li>
             </ul>
             </nav>
@@ -71,6 +72,7 @@
 		<?php include("_organizadores.php"); ?>
 		<?php include("_ponentes.php"); ?>
 		<?php include("_programa.php"); ?>
+		<?php include("_colaboradores.php"); ?>
 		<?php include("_patrocinadores.php"); ?>
 
 <!-- Footer -->
