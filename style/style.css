@@ -144,6 +144,11 @@ display: block;
 clear: both;
 }
 
+.separator {
+
+  margin-left: 5%;
+}
+
 .button{
 margin:10px 0px;
 }
@@ -468,6 +473,13 @@ margin-left:15px;
 }
 
 /* Footer */
+
+#map {
+
+  height: 300px;
+  border-radius: 30px; 
+  margin-bottom: 15px;
+}
 
 
 /* Responsive */

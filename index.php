@@ -80,10 +80,25 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+            <div class="head">
+               <h2>Localización</h2>
+               <div class="bor"></div>
+            </div>
+            <div class="well">
+              <h5 class="aligncenter">Rectorado de la Universidad de Córdoba. Avenida Medina Azahara s/n</h5>
+            </div>
+            <div id="map">
+              <!-- Location map renders through Google Maps API V3-->
+            </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
             <p>Contacta con nosotros - Escríbenos a <a href="mailto:gdgdevfestsur@gmail.com">gdgdevfestsur@gmail.com</a></p>
             <div class="border"></div>
       </div>
     </div>
+
   <div class="clearfix"></div>
   </div>
 </footer>		
@@ -94,5 +109,7 @@
 <script src="js/jquery.flexslider-min.js"></script>
 <script src="js/jquery.anchor.js"></script>
 <script src="js/custom.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+
 </body>
 </html>
