@@ -10,7 +10,8 @@ $(window).load(function() {
 
 /* Location map */
 
-	var dir = "Avenida Media Azhara. Rectorado de la UCO"; var geocoder, map;
+	var dir = "Avenida Media Azhara. Rectorado de la UCO"; 
+	var geocoder, map;
 function codeAddress(address) {
     geocoder = new google.maps.Geocoder();
     geocoder.geocode( { 'address': address}, function(results, status) {
