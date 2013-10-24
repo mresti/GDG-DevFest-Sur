@@ -108,8 +108,8 @@
 <script src="js/bootstrap.js"></script>
 <script src="js/jquery.flexslider-min.js"></script>
 <script src="js/jquery.anchor.js"></script>
+<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="js/custom.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 
 </body>
 </html>
