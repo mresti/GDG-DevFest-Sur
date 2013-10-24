@@ -9,7 +9,6 @@ $(window).load(function() {
   });
 
 /* Location map */
-
 	var dir = "Avenida Media Azhara. Rectorado de la UCO"; 
 	var geocoder, map;
 function codeAddress(address) {
