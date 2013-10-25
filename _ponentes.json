@@ -108,5 +108,16 @@
 		"name":"Juan José Rider",
 		"cargo":"CEO de WUL4",
 		"bio":"Juan José Rider Jiménez es el CEO de WUL4. Con más de 13 años de experiencia en medios de pago, Juan José proporciona servicios relacionados con la seguridad, tecnología y normativa (PCI, EMV, VbV, etc) a los más importantes players de los medios de pago de España y Europa. Especialista de desarrollo seguro, hacking ético, seguridad en las aplicaciones móviles, maniático innovador (más que emprendedor), esposo y orgulloso padre de tres princesas. Siempre ligado al mundo de los medios de pago, desarrolla e implementa la principal pasarela de pagos virtual de España. Colaborador de iniciativas como OWASP, de la que es miembro desde hace 5 años e imparte ponencias."
+	},
+	{
+		"id":"iguardado",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/ivanguardado.jpg",
+		"linkedin":"http://www.linkedin.com/pub/iv%C3%A1n-guardado-castro/21/a68/b29",
+		"plusoneUrl":"",
+		"publicPlusId":"",
+		"twitter":"https://twitter.com/ivanguardado",
+		"name":"Iván Guardado",
+		"cargo":"Desarrollador front-end en SocialBro y cofundador de erasmusu.com",
+		"bio":"Creando aplicaciones web desde 2007. He liderado el desarrollo de erasmusu.com, la comunidad de Erasmus más grande de Europa y actualmente trabajo en SocialBro, una herramienta profesional para Twitter que está pegando fuerte. He tenido la suerte de poder trabajar en distintos roles a lo largo de estos años. Gestión de servidores (Debian, Proxmox, Bash), backend (PHP, NodeJS) y frontend (jQuery, AngularJS)."
 	}
 ]}
