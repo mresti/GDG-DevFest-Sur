@@ -13,7 +13,7 @@
         </div>
 
         <div class="col-md-3">
-            <p><a href="https://www.cosfera.es/" target="_blank"><img width="160" height="150" src="img/coSfera_vertical.png" title="coSfera" alt="coSfera" border="0"></a></p>
+            <p><a href="http://www.cosfera.es/" target="_blank"><img width="160" height="150" src="img/coSfera_vertical.png" title="coSfera" alt="coSfera" border="0"></a></p>
         </div>
 
         <div class="col-md-3">
