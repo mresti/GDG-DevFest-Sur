@@ -1,7 +1,5 @@
 {
  "sessions": [
-
-  
   {
    "description": "Una descripción...",
    "title": "Reconocimiento facial",
@@ -13,13 +11,10 @@
    "isLivestream": true,
    "id": "tech_1"
   },
-  
-    {
+  {
    "description": "Una descripción...",
-   "title": "OculusVR",
-   "startTimestamp": 1383216300,
+   "title": "Oculus VR",
    "presenterIds": [ "asier"],
-   "endTimestamp": 1383219000,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,

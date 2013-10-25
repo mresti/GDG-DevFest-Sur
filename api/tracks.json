@@ -2,7 +2,7 @@
  "track": [
    {
      "id": "tech",
-     "name": "Tech",
+     "name": "Tecnología",
      "level": 1,
      "order_in_level": 1,
      "color": "#99cc00",
@@ -10,7 +10,7 @@
    },
    {
      "id": "entr",
-     "name": "Entrepreneurship",
+     "name": "Emprendimiento",
      "level": 1,
      "order_in_level": 2,
      "color": "#0294c7",

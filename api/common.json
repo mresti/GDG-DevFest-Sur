@@ -6,39 +6,38 @@
       
       "slot": [
         {
-          "start": "01:00",
-          "end": "01:30",
+          "start": "02:00",
+          "end": "02:30",
           "title": "Checkin",
-          "meta": "Sala"
+          "meta": "Camiseta para los primeros en llegar"
         },
         {
-          "start": "01:30",
-          "end": "02:00",
+          "start": "02:30",
+          "end": "03:00",
           "title": "Presentación",
-          "meta": "Sala"
+          "meta": "¡Comienza el GDGDevFest Sur!"
         },
         {
-          "start": "03:30",
-          "end": "04:00",
+          "start": "04:30",
+          "end": "05:00",
           "title": "Café",
-          "meta": "Sala"
+          "meta": "¿Has visto nuestras GoogleGlass?"
         },
-        
         {
-          "start": "06:30",
-          "end": "08:00",
+          "start": "07:30",
+          "end": "09:00",
           "title": "Comida",
-          "meta": "Sala"
+          "meta": "¿Y si te sobra tiempo y visitas nuestro stand de ChromeCast?"
         },
         {
-          "start": "9:30",
-          "end": "10:00",
+          "start": "10:30",
+          "end": "11:00",
           "title": "Café",
-          "meta": "Sala"
+          "meta": "Hágamos un Kitkat"
         },
         {
-          "start": "12:00",
-          "end": "20:00",
+          "start": "13:00",
+          "end": "21:00",
           "title": "After party",
           "meta": "Sala"
         }
