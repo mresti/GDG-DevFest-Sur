@@ -33,6 +33,9 @@
               <h3>PLATA</h3>
 						</div>
 						<p>
+						<a href="http://deblur.es/" target="_blank">
+							<img width="220" height="80"  src="img/deblur_logo.jpg" title="deBlur Comunicación" alt="deBlur Comunicación" border="0">
+						</a>
 							<a href="http://intelify.net/" target="_blank">
 								<img width="295" height="80" src="img/intelify_logo.png" title="Intelify" alt="Intelify" border="0">
 							</a>
