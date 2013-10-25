@@ -1,0 +1,14 @@
+{
+  "rooms": [
+    {
+      "id": "bar",
+      "name":"Bar",
+      "floor": "1"
+    },
+    {
+      "id": "sala_tech",
+      "name":"Sala Tech",
+      "floor": "1"
+    }
+	]
+}

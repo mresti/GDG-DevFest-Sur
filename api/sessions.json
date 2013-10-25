@@ -1,0 +1,39 @@
+{
+ "sessions": [
+
+  
+  {
+   "description": "Una descripción...",
+   "title": "Reconocimiento facial",
+   "startTimestamp": 1383213600,
+   "presenterIds": [ "nacho"],
+   "endTimestamp": 1383216300,
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_1"
+  },
+  
+    {
+   "description": "Una descripción...",
+   "title": "OculusVR",
+   "startTimestamp": 1383216300,
+   "presenterIds": [ "asier"],
+   "endTimestamp": 1383219000,
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_2"
+  },
+	{
+   "description": "Una descripción...",
+   "title": "Gestión de Equipos",
+   "startTimestamp": 1383213600,
+   "presenterIds": [ "aromeo"],
+   "endTimestamp": 1383216300,
+   "subtype": "SESSION",
+   "location": "sala_entr",
+   "isLivestream": true,
+   "id": "entr_2"
+	}
+}

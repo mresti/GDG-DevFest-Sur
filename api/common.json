@@ -1,0 +1,48 @@
+{
+  "day": [
+   
+    {
+      "date": "2013-10-31",
+      
+      "slot": [
+        {
+          "start": "01:00",
+          "end": "01:30",
+          "title": "Checkin",
+          "meta": "Sala"
+        },
+        {
+          "start": "01:30",
+          "end": "02:00",
+          "title": "Presentación",
+          "meta": "Sala"
+        },
+        {
+          "start": "03:30",
+          "end": "04:00",
+          "title": "Café",
+          "meta": "Sala"
+        },
+        
+        {
+          "start": "06:30",
+          "end": "08:00",
+          "title": "Comida",
+          "meta": "Sala"
+        },
+        {
+          "start": "9:30",
+          "end": "10:00",
+          "title": "Café",
+          "meta": "Sala"
+        },
+        {
+          "start": "12:00",
+          "end": "20:00",
+          "title": "After party",
+          "meta": "Sala"
+        }
+      ]
+    }
+  ]
+}

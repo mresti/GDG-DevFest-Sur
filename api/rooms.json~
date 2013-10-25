@@ -1,0 +1,19 @@
+{
+  "rooms": [
+  {
+      "id": "mwc",
+      "name":"Mobile World Center",
+      "floor": "1"
+    },
+    {
+      "id": "bar",
+      "name":"Bar",
+      "floor": "1"
+    },
+    {
+      "id": "auditori",
+      "name":"Auditori",
+      "floor": "1"
+    }
+	]
+}
