@@ -119,5 +119,16 @@
 		"name":"Iván Guardado",
 		"cargo":"Desarrollador front-end en SocialBro y cofundador de erasmusu.com",
 		"bio":"Creando aplicaciones web desde 2007. He liderado el desarrollo de erasmusu.com, la comunidad de Erasmus más grande de Europa y actualmente trabajo en SocialBro, una herramienta profesional para Twitter que está pegando fuerte. He tenido la suerte de poder trabajar en distintos roles a lo largo de estos años. Gestión de servidores (Debian, Proxmox, Bash), backend (PHP, NodeJS) y frontend (jQuery, AngularJS)."
+	},
+	{
+		"id":"rjimenez",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/rauljimenez.jpg",
+		"linkedin":"http://es.linkedin.com/in/jimenezortegaraul",
+		"plusoneUrl":"",
+		"publicPlusId":"",
+		"twitter":"https://twitter.com/ivanguardado",
+		"name":"Raúl Jiménez Ortega",
+		"cargo":"",
+		"bio":""
 	}
 ]}
