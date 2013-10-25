@@ -1,18 +1,16 @@
 {
  "sessions": [
   {
-   "description": "Una descripción...",
-   "title": "Reconocimiento facial",
-   "startTimestamp": 1383213600,
+   "description": "Estado del arte y breve descripción de las diferentes implementaciones de realidad aumentada para Android: Wikitude, Metaio y Layar. Taller práctico sobre Wikitude: reconocimiento de imágenes y geolocalización con Google Maps usando KML.",
+   "title": "Realidad aumentada en Android. Reconocimiento de imágenes y geolocalización usando Google Maps.",
    "presenterIds": [ "nacho"],
-   "endTimestamp": 1383216300,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
    "id": "tech_1"
   },
   {
-   "description": "Una descripción...",
+   "description": "Oculus VR",
    "title": "Oculus VR",
    "presenterIds": [ "asier"],
    "subtype": "SESSION",
@@ -21,15 +19,13 @@
    "id": "tech_2"
   },
 	{
-   "description": "Una descripción...",
+   "description": "Gestión de Equipos",
    "title": "Gestión de Equipos",
-   "startTimestamp": 1383213600,
    "presenterIds": [ "aromeo"],
-   "endTimestamp": 1383216300,
    "subtype": "SESSION",
    "location": "sala_entr",
    "isLivestream": true,
-   "id": "entr_2"
+   "id": "entr_1"
 	}
 	]
 }
