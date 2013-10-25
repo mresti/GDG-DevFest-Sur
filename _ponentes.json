@@ -97,5 +97,16 @@
 		"name":"Andrés Leonardo",
 		"cargo":"Developer Program Manager, Google",
 		"bio":"Andrés es Developer Relations Program Manager para Google en España. Con una amplia experiencia en I+D e ingeniería del software, gran parte de su carrera profesional se ha centrado en la planificación e implementación de proyectos de innovación relacionados con los paradigmas de OpenSource, trabajando anteriormente para empresas como Telefónica."
+	},
+	{
+		"id":"jjrider",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/juanjoserider.jpg",
+		"linkedin":"http://es.linkedin.com/in/juanjoseriderjimenez",
+		"plusoneUrl":"https://plus.google.com/117460846665715879148",
+		"publicPlusId":"117460846665715879148",
+		"twitter":"https://twitter.com/jjriderWUL4",
+		"name":"Juan José Rider",
+		"cargo":"CEO de WUL4",
+		"bio":"Juan José Rider Jiménez es el CEO de WUL4. Con más de 13 años de experiencia en medios de pago, Juan José proporciona servicios relacionados con la seguridad, tecnología y normativa (PCI, EMV, VbV, etc) a los más importantes players de los medios de pago de España y Europa. Especialista de desarrollo seguro, hacking ético, seguridad en las aplicaciones móviles, maniático innovador (más que emprendedor), esposo y orgulloso padre de tres princesas. Siempre ligado al mundo de los medios de pago, desarrolla e implementa la principal pasarela de pagos virtual de España. Colaborador de iniciativas como OWASP, de la que es miembro desde hace 5 años e imparte ponencias."
 	}
 ]}
