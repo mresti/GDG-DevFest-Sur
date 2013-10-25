@@ -28,12 +28,12 @@
 							<?php if ($ponente['twitter'] != "") { ?>			
 								<a href="<?php echo $ponente['twitter'];?>"><img src="img/rrss/Twitter.png"></a>
 							<?php } ?>
-							<?php if ($ponente['google'] != "") { ?>
-								<a href="<?php echo $ponente['google'];?>"><img src="img/rrss/Google.png"></a>
+							<?php if ($ponente['plusoneUrl'] != "") { ?>
+								<a href="<?php echo $ponente['plusoneUrl'];?>"><img src="img/rrss/Google.png"></a>
 							<?php } ?>
 						</div>
-            <h3><?php echo $ponente['nombre'];?> <span class="ameta"><?php echo $ponente['cargo'];?></span></h3>
-            <p> <img src="<?php echo $ponente['imagen'];?>" alt="" class="img-circle"/><?php echo $ponente['descripcion'];?></p>
+            <h3><?php echo $ponente['name'];?> <span class="ameta"><?php echo $ponente['cargo'];?></span></h3>
+            <p> <img src="<?php echo $ponente['thumbnailUrl'];?>" alt="" class="img-circle"/><?php echo $ponente['bio'];?></p>
 						<div style="clear:both"></div>
          </div>
       </div>

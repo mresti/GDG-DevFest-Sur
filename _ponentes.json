@@ -1,72 +1,79 @@
 {"ponentes":[
 	{
-		"alias":"julian",
-		"imagen":"http://sur.gdgdevfest.com/img/speakers/julianbeltran.jpg",
+		"id":"julian",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/julianbeltran.jpg",
 		"linkedin":"http://www.linkedin.com/in/julianmb",
-		"google":"https://plus.google.com/102043168453367495516",
+		"plusoneUrl":"https://plus.google.com/102043168453367495516",
+		"publicPlusId":"102043168453367495516",
 		"twitter":"https://twitter.com/julianmb",
-		"nombre":"Julián Beltrán",
+		"name":"Julián Beltrán",
 		"cargo":"CEO at Droiders",
-		"descripcion":"Emprendedor del sector de las tecnologías de la información y comunicaciones. Fundador de Beltia y deDroiders, empresa especializada en aplicaciones para Android."
+		"bio":"Emprendedor del sector de las tecnologías de la información y comunicaciones. Fundador de Beltia y deDroiders, empresa especializada en aplicaciones para Android."
 	},
 	{
-		"alias":"artiles",
-		"imagen":"http://sur.gdgdevfest.com/img/speakers/alfredoartiles.jpg",
+		"id":"artiles",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/alfredoartiles.jpg",
 		"linkedin":"http://www.linkedin.com/in/alfredoartiles",
-		"google":"https://plus.google.com/108635286356285102317",
+		"plusoneUrl":"https://plus.google.com/108635286356285102317",
+		"publicPlusId":"108635286356285102317",
 		"twitter":"https://twitter.com/aartiles24",
-		"nombre":"Alfredo Artiles",
+		"name":"Alfredo Artiles",
 		"cargo":"SocialBro Co-founder and CTO",
-		"descripcion":"Cubano y cordobés de adopción, es licenciado en Ciencias de la Computación por la Universidad Central de Las Villas y lleva 12 años desarrollando proyectos en Internet.<\/p><p>Co-fundador y director de tecnología de equipo24 S.L., empresa especializada en el desarrollo de soluciones socialmedia. Ha liderado el desarrollo de la plataforma de presentadores virtualese24Presenter y de la mayor red de aplicaciones de Twitter en España: e24Apps Network, donde destacan aplicaciones comoFollowFriday.com, Resonancers.com, FilterTweeps.com, FriendLynx, LocaFollow.com, entre otras. Actualmente lidera el desarrollo de SocialBro, una herramienta de análisis y gestión de contactos en Twitter con una gran tendencia a CRM social."
+		"bio":"Cubano y cordobés de adopción, es licenciado en Ciencias de la Computación por la Universidad Central de Las Villas y lleva 12 años desarrollando proyectos en Internet.<\/p><p>Co-fundador y director de tecnología de equipo24 S.L., empresa especializada en el desarrollo de soluciones socialmedia. Ha liderado el desarrollo de la plataforma de presentadores virtualese24Presenter y de la mayor red de aplicaciones de Twitter en España: e24Apps Network, donde destacan aplicaciones comoFollowFriday.com, Resonancers.com, FilterTweeps.com, FriendLynx, LocaFollow.com, entre otras. Actualmente lidera el desarrollo de SocialBro, una herramienta de análisis y gestión de contactos en Twitter con una gran tendencia a CRM social."
 	},
 	{
-		"alias":"asier",
-		"imagen":"http://sur.gdgdevfest.com/img/speakers/asierarranz.jpg",
+		"id":"asier",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/asierarranz.jpg",
 		"linkedin":"http://www.linkedin.com/in/asierarranz",
-		"google":"https://plus.google.com/108749679517324971736",
+		"plusoneUrl":"https://plus.google.com/108749679517324971736",
+		"publicPlusId":"108749679517324971736",
 		"twitter":"https://twitter.com/asierarranz",
-		"nombre":"Asier Arranz",
+		"name":"Asier Arranz",
 		"cargo":"Using technology to create emotions",
-		"descripcion":"I have a very strong knowledge in all technology áreas, combined with business skills adquired though my 2 startups Nebutek & Atlanpix (1 alive, 1 failed).<\/p><p>I raised an investment from Wayra Spain, and made technical due diligences to Job and Talent, Blink and Mimub. Months later JobandTalent raised $3.3M and Blink was adquired by Groupon.<\/p><p>I have been Global Developer Advisor for Campus Party Europe; Leader and organizer of NASA Space Apps Challenge in Spain, TEDx Speaker (Talk: \"Virtual reality, real perception: Tricking our brain\"), teacher at IE Business School and Repsol. Mentor at Startup Weekend, NetDay and Acelera X2 Colombia. I have made tech demostrations at Microsoft and Telefónica. And I usually collaborate teaching technology activities for kids."
+		"bio":"I have a very strong knowledge in all technology áreas, combined with business skills adquired though my 2 startups Nebutek & Atlanpix (1 alive, 1 failed).<\/p><p>I raised an investment from Wayra Spain, and made technical due diligences to Job and Talent, Blink and Mimub. Months later JobandTalent raised $3.3M and Blink was adquired by Groupon.<\/p><p>I have been Global Developer Advisor for Campus Party Europe; Leader and organizer of NASA Space Apps Challenge in Spain, TEDx Speaker (Talk: \"Virtual reality, real perception: Tricking our brain\"), teacher at IE Business School and Repsol. Mentor at Startup Weekend, NetDay and Acelera X2 Colombia. I have made tech demostrations at Microsoft and Telefónica. And I usually collaborate teaching technology activities for kids."
 	},
 	{
-		"alias":"aromeo",
-		"imagen":"http://sur.gdgdevfest.com/img/speakers/alfredoromeo.jpg",
+		"id":"aromeo",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/alfredoromeo.jpg",
 		"linkedin":"http://www.linkedin.com/in/alfredoromeo",
-		"google":"https://plus.google.com/108696100362557238756",
+		"plusoneUrl":"https://plus.google.com/108696100362557238756",
+		"publicPlusId":"108696100362557238756",
 		"twitter":"https://twitter.com/aromeo",
-		"nombre":"Alfredo Romeo",
+		"name":"Alfredo Romeo",
 		"cargo":"CEO at Intelify, nowadays, connecting objects and people to the Internet",
-		"descripcion":"Alfredo Romeo (@aromeo) conceptualiza, diseña, testa y emprende en diferentes proyectos que tienen que ver con cómo conectar el entorno físico e Internet desde el año 2000.<\/p><p>Desde el 2010, trabaja en la conceptualización, diseño y desarrollo de Intelify, una plataforma para conectar el mundo físico a Internet de manera fácil, simple, sencilla, y rentable. Intelify es independiente de la tecnologia. Fruto de esta plataforma han nacido diferentes productos como Do it social, City Analytics e Intelify Tags."
+		"bio":"Alfredo Romeo (@aromeo) conceptualiza, diseña, testa y emprende en diferentes proyectos que tienen que ver con cómo conectar el entorno físico e Internet desde el año 2000.<\/p><p>Desde el 2010, trabaja en la conceptualización, diseño y desarrollo de Intelify, una plataforma para conectar el mundo físico a Internet de manera fácil, simple, sencilla, y rentable. Intelify es independiente de la tecnologia. Fruto de esta plataforma han nacido diferentes productos como Do it social, City Analytics e Intelify Tags."
 	},
 	{
-		"alias":"nacho",
-		"imagen":"https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png",
+		"id":"nacho",
+		"thumbnailUrl":"https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png",
 		"linkedin":"http://es.linkedin.com/in/neonigmacdb‎",
-		"google":"",
+		"plusoneUrl":"",
+		"publicPlusId":"",
 		"twitter":"https://twitter.com/neonigmacdb",
-		"nombre":"José Ignacio Álvarez",
+		"name":"José Ignacio Álvarez",
 		"cargo":"Desarrollador Android en WUL4",
-		"descripcion":"Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android."
+		"bio":"Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android."
 	},
 	{
-		"alias":"jgutierrez",
-		"imagen":"http://sur.gdgdevfest.com/img/speakers/javier.png",
+		"id":"jgutierrez",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/javier.png",
 		"linkedin":"",
-		"google":"",
+		"plusoneUrl":"",
+		"publicPlusId":"",
 		"twitter":"",
-		"nombre":"Javier Gutierrez",
+		"name":"Javier Gutierrez",
 		"cargo":"Profesor en Universidad de Sevilla",
-		"descripcion":"Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.<\/p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software."
+		"bio":"Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.<\/p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software."
 	},
 	{
-		"alias":"hidabe",
-		"imagen":"https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png",
+		"id":"hidabe",
+		"thumbnailUrl":"https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png",
 		"linkedin":"http://www.linkedin.com/in/hidabe",
-		"google":"https://plus.google.com/109623390521488791490‎",
+		"plusoneUrl":"https://plus.google.com/109623390521488791490‎",
+		"publicPlusId":"109623390521488791490",
 		"twitter":"https://twitter.com/hidabe",
-		"nombre":"Fernando Hidalgo",
+		"name":"Fernando Hidalgo",
 		"cargo":"Analista/Programador, fundador de Sopinet",
-		"descripcion":"Desarrollador web y tecnologías smartphones, analista\/programador, mantenimiento de sistemas y servidores linux.<\/p><p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web\/app sencillas para problemas no triviales.<\/p><p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo."
+		"bio":"Desarrollador web y tecnologías smartphones, analista\/programador, mantenimiento de sistemas y servidores linux.<\/p><p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web\/app sencillas para problemas no triviales.<\/p><p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo."
 	}
 ]}
