@@ -75,5 +75,16 @@
 		"name":"Fernando Hidalgo",
 		"cargo":"Analista/Programador, fundador de Sopinet",
 		"bio":"Desarrollador web y tecnologías smartphones, analista\/programador, mantenimiento de sistemas y servidores linux.<\/p><p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web\/app sencillas para problemas no triviales.<\/p><p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo."
+	},
+	{
+		"id":"claudioponce",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/claudioponce.png",
+		"linkedin":"http://es.linkedin.com/in/claudioponce",
+		"plusoneUrl":"https://plus.google.com/111805762735415754280",
+		"publicPlusId":"111805762735415754280",
+		"twitter":"https://twitter.com/ClaudioPonce",
+		"name":"Claudio Ponce",
+		"cargo":"Consultor de marketing estratégico, socio fundador de EMV consultores",
+		"bio":"Socio fundador de EMV consultores, consultoría en Madrid y Castilla y León (España): www.emvconsultores.com. Creador del \"Programa Meister\", que es un programa de diagnóstico y solución para potenciar las ventas, la competitividad, la diferenciación y la rentabilidad de las empresas."
 	}
 ]}
