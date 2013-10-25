@@ -144,7 +144,7 @@ display: block;
 clear: both;
 }
 
-.patrocinadores p {
+.patrocinadores p, .colaboradores p {
 
   text-align: center;
 }
@@ -487,6 +487,11 @@ margin-left:15px;
   height: 300px;
   border-radius: 30px; 
   margin-bottom: 15px;
+}
+
+footer .row p {
+
+  text-align: left;
 }
 
 
