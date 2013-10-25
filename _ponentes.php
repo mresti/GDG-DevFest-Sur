@@ -16,7 +16,7 @@
 <?php
 	$string = file_get_contents("_ponentes.json");
 	$json_a=json_decode($string,true);
-	foreach($json_a['ponentes'] as $ponente) { ?>
+	foreach($json_a['presenters'] as $ponente) { ?>
 		<div class=row">
       <div class="span12">
          <div class="about">
