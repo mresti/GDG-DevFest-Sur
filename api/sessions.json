@@ -26,6 +26,15 @@
    "location": "sala_entr",
    "isLivestream": true,
    "id": "entr_1"
+	},
+	{
+   "description": "Maven es un gestor de dependencias para Java, que, empieza a ser ya habitual en el desarrollo de librerías para Android. En la charla intentaré explicar las ventajas de usar Maven y expondremos algun ejemplo en el que se muestre su potencial.",
+   "title": "Maven en Android",
+   "presenterIds": [ "hidabe"],
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_3"
 	}
 	]
 }
