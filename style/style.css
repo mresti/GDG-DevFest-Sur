@@ -144,7 +144,7 @@ display: block;
 clear: both;
 }
 
-.patrocinadores p {
+.patrocinadores p, .colaboradores p {
 
   text-align: center;
 }
@@ -155,6 +155,16 @@ clear: both;
   margin-right: 3%;
   margin-top: 2%;
   margin-bottom: 2%;
+}
+
+.colaboradores a {
+
+  color: #666;
+}
+
+.colaboradores a:hover {
+
+  text-decoration: none;
 }
 
 .button{
@@ -487,6 +497,11 @@ margin-left:15px;
   height: 300px;
   border-radius: 30px; 
   margin-bottom: 15px;
+}
+
+footer .row p {
+
+  text-align: left;
 }
 
 
