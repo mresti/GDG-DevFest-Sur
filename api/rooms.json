@@ -7,7 +7,12 @@
     },
     {
       "id": "sala_tech",
-      "name":"Sala Tech",
+      "name":"Sala Tecnología",
+      "floor": "1"
+    },
+    {
+      "id": "sala_entr",
+      "name":"Sala Emprendimiento",
       "floor": "1"
     }
 	]

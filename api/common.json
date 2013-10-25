@@ -15,7 +15,19 @@
           "start": "02:30",
           "end": "03:00",
           "title": "Presentación",
-          "meta": "¡Comienza el GDGDevFest Sur!"
+          "meta": "¡Comienza el GDG DevFest Sur!"
+        },
+        {
+          "start": "03:00",
+          "end": "03:45",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "03:45",
+          "end": "04:30",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
         },
         {
           "start": "04:30",
@@ -24,16 +36,70 @@
           "meta": "¿Has visto nuestras GoogleGlass?"
         },
         {
+          "start": "05:00",
+          "end": "05:45",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "05:45",
+          "end": "06:30",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "06:30",
+          "end": "07:00",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "07:00",
+          "end": "07:30",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
           "start": "07:30",
           "end": "09:00",
           "title": "Comida",
           "meta": "¿Y si te sobra tiempo y visitas nuestro stand de ChromeCast?"
         },
         {
+          "start": "09:00",
+          "end": "09:45",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "09:45",
+          "end": "10:30",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
           "start": "10:30",
           "end": "11:00",
           "title": "Café",
           "meta": "Hágamos un Kitkat"
+        },
+        {
+          "start": "11:00",
+          "end": "11:45",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "11:45",
+          "end": "12:30",
+          "title": "Ponencias",
+          "meta": "(Aún por determinar orden)"
+        },
+        {
+          "start": "12:30",
+          "end": "13:00",
+          "title": "Ponencia de cierre",
+          "meta": "Hablaremos de comunidades"
         },
         {
           "start": "13:00",
