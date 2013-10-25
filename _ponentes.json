@@ -1,16 +1,5 @@
 {"presenters":[
 	{
-		"id":"julian",
-		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/julianbeltran.jpg",
-		"linkedin":"http://www.linkedin.com/in/julianmb",
-		"plusoneUrl":"https://plus.google.com/102043168453367495516",
-		"publicPlusId":"102043168453367495516",
-		"twitter":"https://twitter.com/julianmb",
-		"name":"Julián Beltrán",
-		"cargo":"CEO at Droiders",
-		"bio":"Emprendedor del sector de las tecnologías de la información y comunicaciones. Fundador de Beltia y deDroiders, empresa especializada en aplicaciones para Android."
-	},
-	{
 		"id":"artiles",
 		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/alfredoartiles.jpg",
 		"linkedin":"http://www.linkedin.com/in/alfredoartiles",
@@ -19,7 +8,7 @@
 		"twitter":"https://twitter.com/aartiles24",
 		"name":"Alfredo Artiles",
 		"cargo":"SocialBro Co-founder and CTO",
-		"bio":"Cubano y cordobés de adopción, es licenciado en Ciencias de la Computación por la Universidad Central de Las Villas y lleva 12 años desarrollando proyectos en Internet.<\/p><p>Co-fundador y director de tecnología de equipo24 S.L., empresa especializada en el desarrollo de soluciones socialmedia. Ha liderado el desarrollo de la plataforma de presentadores virtualese24Presenter y de la mayor red de aplicaciones de Twitter en España: e24Apps Network, donde destacan aplicaciones comoFollowFriday.com, Resonancers.com, FilterTweeps.com, FriendLynx, LocaFollow.com, entre otras. Actualmente lidera el desarrollo de SocialBro, una herramienta de análisis y gestión de contactos en Twitter con una gran tendencia a CRM social."
+		"bio":"Licenciado en Ciencias de la Computación, lleva 15 años desarrollando proyectos en Internet. Co-fundador y CTO de SocialBro.com, una herramienta de analítica y gestión de audiencias en Twitter nacida en Córdoba y que cuenta con 180,000 usuarios y más de 3,000 clientes en todo el mundo."
 	},
 	{
 		"id":"asier",
@@ -41,7 +30,7 @@
 		"twitter":"https://twitter.com/aromeo",
 		"name":"Alfredo Romeo",
 		"cargo":"CEO at Intelify, nowadays, connecting objects and people to the Internet",
-		"bio":"Alfredo Romeo (@aromeo) conceptualiza, diseña, testa y emprende en diferentes proyectos que tienen que ver con cómo conectar el entorno físico e Internet desde el año 2000.<\/p><p>Desde el 2010, trabaja en la conceptualización, diseño y desarrollo de Intelify, una plataforma para conectar el mundo físico a Internet de manera fácil, simple, sencilla, y rentable. Intelify es independiente de la tecnologia. Fruto de esta plataforma han nacido diferentes productos como Do it social, City Analytics e Intelify Tags."
+		"bio":"Emprendedor en serie e interesado por la información que nos rodea, dirige Intelify, empresa que hace la vida más fácil a los usuarios a través de automatizaciones de procesos en tareas cotidianas.<\/p><p>Ha diseñado, desarrollado y llevado a cabo múltiples proyectos pioneros de base tecnológica. Entre ellos destaca Blobject, el primer servicio de alquiler de coches eléctricos con GPS para visitar ciudades (2004); Cordobapedia, enciclopedia de Córdoba con más de un millón de visitas anuales (2005); la creación de un sistema analítico y estadístico de póker online junto a Los Pelayos (2010); o el diseño del primer sistema de información de la fiesta de los Patios de Córdoba (2013). Además, viene impartiendo conferencias y clases desde el año 2000 hablando sobre su principal pasión: el impacto de las TIC en el mundo actual."
 	},
 	{
 		"id":"nacho",
@@ -58,8 +47,8 @@
 		"id":"jgutierrez",
 		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/javier.png",
 		"linkedin":"",
-		"plusoneUrl":"",
-		"publicPlusId":"",
+		"plusoneUrl":"https://plus.google.com/111076905746463321105",
+		"publicPlusId":"111076905746463321105",
 		"twitter":"",
 		"name":"Javier Gutierrez",
 		"cargo":"Profesor en Universidad de Sevilla",
@@ -85,7 +74,7 @@
 		"twitter":"https://twitter.com/ClaudioPonce",
 		"name":"Claudio Ponce",
 		"cargo":"Consultor de marketing estratégico, socio fundador de EMV consultores",
-		"bio":"Socio fundador de EMV consultores, consultoría en Madrid y Castilla y León (España): www.emvconsultores.com. Creador del \"Programa Meister\", que es un programa de diagnóstico y solución para potenciar las ventas, la competitividad, la diferenciación y la rentabilidad de las empresas."
+		"bio":"Es consultor de marketing estratégico y socio fundador de EMV consultores, consultoria en Madrid y Castilla y León (España). Creador del \"Programa Meister\", que es un programa de diagnóstico y solución para potenciar las ventas, la competitividad, la diferenciación y la rentabilidad de las empresas. (Programa On line o talleres personalizados)."
 	},
 	{
 		"id":"aleonar",
@@ -113,8 +102,8 @@
 		"id":"iguardado",
 		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/ivanguardado.jpg",
 		"linkedin":"http://www.linkedin.com/pub/iv%C3%A1n-guardado-castro/21/a68/b29",
-		"plusoneUrl":"",
-		"publicPlusId":"",
+		"plusoneUrl":"https://plus.google.com/108413148044803384848",
+		"publicPlusId":"108413148044803384848",
 		"twitter":"https://twitter.com/ivanguardado",
 		"name":"Iván Guardado",
 		"cargo":"Desarrollador front-end en SocialBro y cofundador de erasmusu.com",
@@ -124,9 +113,9 @@
 		"id":"rjimenez",
 		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/rauljimenez.jpg",
 		"linkedin":"http://es.linkedin.com/in/jimenezortegaraul",
-		"plusoneUrl":"",
-		"publicPlusId":"",
-		"twitter":"https://twitter.com/ivanguardado",
+		"plusoneUrl":"https://plus.google.com/u/0/103394787368944111412",
+		"publicPlusId":"103394787368944111412",
+		"twitter":"",
 		"name":"Raúl Jiménez Ortega",
 		"cargo":"",
 		"bio":""

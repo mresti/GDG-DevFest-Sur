@@ -19,8 +19,8 @@
    "id": "tech_2"
   },
 	{
-   "description": "Gestión de Equipos",
-   "title": "Gestión de Equipos",
+   "description": "...o de las claves para que un equipo de 11 personas se encuentren ilusionadas, apasionadas y entregadas por su trabajo independientemente de todas las circunstancias.",
+   "title": "La ética hacker aplicada al trabajo. El caso de Intelify",
    "presenterIds": [ "aromeo"],
    "subtype": "SESSION",
    "location": "sala_entr",
@@ -35,6 +35,42 @@
    "location": "sala_tech",
    "isLivestream": true,
    "id": "tech_3"
+	},
+	{
+   "description": "Cómo llevar al mercado una idea sin más inversión que tu tiempo.",
+   "title": "Entreprenuerlopers",
+   "presenterIds": [ "artiles"],
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "entr_2"
+	},
+	{
+   "description": "De dónde venimos y a dónde vamos.",
+   "title": "AngularJS",
+   "presenterIds": [ "iguardado"],
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_4"
+	},
+	{
+   "description": "El objetivo de esta charla es realizar una introducción muy breve a TDD y, a continuación, mostrar cómo aplicar TDD en la práctica.",
+   "title": "Las claves del Desarrollo Dirigido por Pruebas (o TDD)",
+   "presenterIds": [ "jgutierrez"],
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_5"
+	},	
+	{
+   "description": "Pago Presencial y e-commerce.",
+   "title": "Google Wallet",
+   "presenterIds": [ "jjrider"],
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_6"
 	}
 	]
 }
