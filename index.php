@@ -38,6 +38,15 @@
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="img/favicon/favicon.png">
+
+<!-- Google + recommends for mobile devices-->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+    po.src = "https://apis.google.com/js/plusone.js?publisherid=104298429774470156908";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 </head>
 
 <body>
