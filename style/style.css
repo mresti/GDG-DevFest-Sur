@@ -144,19 +144,6 @@ display: block;
 clear: both;
 }
 
-.patrocinadores p, .colaboradores p {
-
-  text-align: center;
-}
-
-.patrocinadores p a img {
-
-  margin-left: 3%;
-  margin-right: 3%;
-  margin-top: 2%;
-  margin-bottom: 2%;
-}
-
 .button{
 margin:10px 0px;
 }
@@ -266,7 +253,26 @@ background:#406903 !important;
 /* Header */
 
 header{
-background:url('../img/green.jpg') no-repeat;
+//background:#6A9217 url('../img/green.jpg') no-repeat scroll top;
+ 	
+
+/* IE10 Consumer Preview */ 
+background-image: -ms-radial-gradient(center, circle farthest-corner, #BED261 0%, #5F8A07 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-radial-gradient(center, circle farthest-corner, #BED261 0%, #5F8A07 100%);
+
+/* Opera */ 
+background-image: -o-radial-gradient(center, circle farthest-corner, #BED261 0%, #5F8A07 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #BED261), color-stop(1, #5F8A07));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-radial-gradient(center, circle farthest-corner, #BED261 0%, #5F8A07 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: radial-gradient(circle farthest-corner at center, #BED261 0%, #5F8A07 100%);
 min-height:550px;
 text-align:center;
 padding-top:70px;
@@ -395,10 +401,6 @@ box-shadow:inset 0px 0px 3px #ccc;
 background:#fff;
 }
 
-.rrss img {
-	float: right;
-}
-
 .about h3{
 font-weight:700;
 }
@@ -481,18 +483,6 @@ margin-left:15px;
 }
 
 /* Footer */
-
-#map {
-
-  height: 300px;
-  border-radius: 30px; 
-  margin-bottom: 15px;
-}
-
-footer .row p {
-
-  text-align: left;
-}
 
 
 /* Responsive */

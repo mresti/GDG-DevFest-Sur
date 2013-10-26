@@ -71,6 +71,7 @@
 						<li><a href="#programa" class="anchorLink">Programa</a></li>
 						<li><a href="#colaboradores" class="anchorLink">Colaboradores</a></li>
             <li><a href="#patrocinadores" class="anchorLink">Patrocinadores</a></li>
+			<li><a href="#masinfo" class="anchorLink">Más...</a></li>
             </ul>
             </nav>
         </div>
@@ -86,9 +87,9 @@
 
 <!-- Footer -->
 <footer>
-  <div class="container">
+  <div id="masinfo" class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div  class="col-md-12">
             <div class="head">
                <h2>Localización</h2>
                <div class="bor"></div>
@@ -98,6 +99,28 @@
             </div>
             <div id="map">
               <!-- Location map renders through Google Maps API V3-->
+            </div>
+      </div>
+    </div>
+	<div class="row">
+      <div class="col-md-12">
+            <div class="head">
+               <h2>Concurso Twitter</h2>
+               <div class="bor"></div>
+            </div>
+            <div class="well">
+              <strong>El m&aacute;s tuitero se llevar&aacute; un fant&aacute;stico Chromecast</strong>
+			  <p>Ser el que m&aacute;s utilice el hashtag #DevFestSur te puede llevar a conseguir un Chromecast. Para ello solo debes tener en cuenta las siguientes bases del concurso y ser el que m&aacute;s tuits publica con su cuenta de Twitter.</p>
+			  <p><strong>Bases</strong></p>
+			  <ul>
+				<li>Para que el tuit contabilice debe incluir el hashtag #DevFestSur</li>
+				<li>Los Retuits tambi&eacute;n cuentan para el concurso</li>
+				<li>El periodo para acumular tuits comienza el 25/10/2013 a las 0:00h y termina al finalizar el evento, es decir, aproximadamente a las 19:30h del 31/10/2013.</li>
+				<li>El ganador/a debe estar presente para recoger el regalo.</li>
+				<li>Los que acaben entre las 5 primeras pposiciones de la clasificaci&oacute;n final tendr&aacute;n un premio de consolaci&oacute;n.</li>
+				<li>El recuento de los tuits se realizan a trav&eacute;s de un servicio externo a la organizaci&oacute;n del evento, por lo que no nos responsabilizamos de la veracidad de los mismos.</li>
+			  </ul>
+			  <p>Mucha suerte a todos/as los participantes.</p>
             </div>
       </div>
     </div>
