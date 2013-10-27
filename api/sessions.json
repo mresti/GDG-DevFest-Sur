@@ -3,7 +3,9 @@
   {
    "description": "Estado del arte y breve descripción de las diferentes implementaciones de realidad aumentada para Android: Wikitude, Metaio y Layar. Taller práctico sobre Wikitude: reconocimiento de imágenes y geolocalización con Google Maps usando KML.",
    "title": "Realidad aumentada en Android. Reconocimiento de imágenes y geolocalización usando Google Maps.",
+   "startTimestamp": 1383127200,
    "presenterIds": [ "nacho"],
+   "endTimestamp": 1383129900,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
