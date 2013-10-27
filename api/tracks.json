@@ -18,9 +18,9 @@
    },
      {
      "id": "hack",
-     "name": "Emprendimiento",
+     "name": "Espacio Hacker",
      "level": 1,
-     "order_in_level": 2,
+     "order_in_level": 3,
      "color": "#f7c53d",
      "abstract": "Tecnología"
    },
@@ -28,7 +28,7 @@
      "id": "uni",
      "name": "Tecnología",
      "level": 1,
-     "order_in_level": 2,
+     "order_in_level": 4,
      "color": "#099851",
      "abstract": "Tecnología"
    },
@@ -36,7 +36,7 @@
      "id": "group",
      "name": "Grupos de trabajo",
      "level": 1,
-     "order_in_level": 2,
+     "order_in_level": 5,
      "color": "#da4b3f",
      "abstract": "Codelab"
    }
