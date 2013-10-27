@@ -482,7 +482,25 @@ form button{
 margin-left:15px;
 }
 
+.patrocinadores p , .colaboradores p {
+
+  text-align: center;
+}
+
+.patrocinadores p a img {
+
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
 /* Footer */
+
+#map {
+
+  height: 300px;
+}
 
 
 /* Responsive */

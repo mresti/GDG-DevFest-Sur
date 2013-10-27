@@ -25,7 +25,7 @@
         </div>
 
         <div class="col-md-3">
-            <p><a href="http://zendeweb.com/" target="_blank"><img width="180" height="135" src="img/zendeweb_cuadrado.png" title="Zendeweb" alt="Zendeweb" border="0"></a></p>
+            <p><a href="http://zendeweb.com/" target="_blank"><img width="220" height="130" src="img/zendeweb_cuadrado.png" title="Zendeweb" alt="Zendeweb" border="0"></a></p>
         </div>
     </div>
   </div>
