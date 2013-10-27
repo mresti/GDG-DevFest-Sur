@@ -15,6 +15,30 @@
      "order_in_level": 2,
      "color": "#0294c7",
      "abstract": "Emprendimiento"
+   },
+     {
+     "id": "hack",
+     "name": "Emprendimiento",
+     "level": 1,
+     "order_in_level": 2,
+     "color": "#f7c53d",
+     "abstract": "Tecnología"
+   },
+     {
+     "id": "uni",
+     "name": "Tecnología",
+     "level": 1,
+     "order_in_level": 2,
+     "color": "#099851",
+     "abstract": "Tecnología"
+   },
+     {
+     "id": "group",
+     "name": "Grupos de trabajo",
+     "level": 1,
+     "order_in_level": 2,
+     "color": "#da4b3f",
+     "abstract": "Codelab"
    }
 	]
 }
