@@ -12,11 +12,26 @@
 			 </div>
 			</div>
 
+			<?php
+				function orderdata($jcommon, $jsessions) {
+					foreach($jcommon as $jc) {
+						
+					}
+				}
+
+				$string_common = file_get_contents("api/common.json");
+				$json_common=json_decode($string,true);
+				$string_sessions = file_get_contents("api/sessions.json");
+				$json_sessions=json_decode($string,true);
+
+				$data = orderdata($json_common, $json_sessions);
+			?>
+
 			<div id="tablaprograma" class="about">
 				<div id="cabecera">
 					<div class="row">
 						<div class="col6 aligncenter2 cabecera columna1">
-							<span>Track Developer</span>
+							<span>Track Tecnología</span>
 						</div>
 						<div class="col6 aligncenter2 cabecera columna2">
 							<span>Track Emprendedor</span>
