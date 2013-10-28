@@ -190,15 +190,25 @@
 	{
    "description": "¿Quieres probarte las GoogleGlass? ¿Y si echas un vistazo al ChromeCast? El espacio HACK tendrá algunos dispositivos punteros en el ecosistema Google, para que podáis probarlos, siempre dentro de las posibilidades del espacio y tiempo",
    "title": "Espacio HACK",
-        "startTimestamp": 1383210000,
+        "startTimestamp": 1383231600,
    "presenterIds": [ "organizadores"],
         "endTimestamp": 1383246000,
    "subtype": "SESSION",
-   "location": "sala_cen",
+   "location": "sala_hack",
    "isLivestream": true,
    "id": "entr_7"
-	}
-     
+	},	
+	{
+   "description": "Charla + Taller sobre la tecnología GWT",
+   "title": "Taller GWT",
+        "startTimestamp": 1383231600,
+   "presenterIds": [ "organizadores"],
+        "endTimestamp": 1383246000,
+   "subtype": "SESSION",
+   "location": "sala_group",
+   "isLivestream": true,
+   "id": "entr_7"
+	}  
 	]
 }
 
