@@ -141,5 +141,16 @@
 		"name":"David Merinas",
 		"cargo":"Gerente en Deidos Estudio y CTO de UNIPimus",
 		"bio":"Físico, programador y emprendedor de Córdoba. Cofundador en 2008 de Deidos Estudio, consultora especializada en diseño web y de UNIPimus en 2012, plataforma que pone en contacto a estudiantes de intercambio en el extranjero con empresas que desean abrirse al mercado internacional. Escribe sobre marketing online y negocios en internet en su blog."
+	},
+	{
+		"id":"juanluis",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/1222098235/2884646457_9b000d19aa_b_bigger.jpg",
+		"linkedin":"",
+		"plusoneUrl":"https://plus.google.com/110982771381161664187",
+		"publicPlusId":"110982771381161664187",
+		"twitter":"https://twitter.com/jlbofh",
+		"name":"Juan Luis Pérez",
+		"cargo":"Jefe de tecnología y socio fundador en Intelify",
+		"bio":"Jefe de tecnología y socio fundador en Intelify, empresa que investiga y desarrolla aplicativos para facilitar la vida del usuario conectando el mundo físico e internet.<\/p><p>Desde el año 2000, Juan Luis viene diseñando, analizando y desarrollando múltiples proyectos como gestores de procesos y trámites, una plataforma de análisis estadístico de partidas de póker y en los últimos tres años y medio el sistema de información de Intelify que integra, entre otros, sistemas de captura y analítica de flujos de información para smart cities, procesos de identificación del usuario en el mundo físico y su analítica asociada etc."
 	}
 ]}

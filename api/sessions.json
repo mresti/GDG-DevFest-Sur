@@ -199,16 +199,16 @@
    "id": "hack_7"
 	},	
 	{
-   "description": "Charla + Taller sobre la tecnología GWT",
-   "title": "Taller GWT",
+   "description": "Juan Luis Pérez, CTO y cofundador de Intelify nos presentará la arquitectura y los principales rasgos de la plataforma Intelify y nos enseñará brevemente a usar la tecnología GWT y construir de forma rápida y ordenada una aplicación web, y comentará los puntos fuertes y débiles de esta tecnología.",
+   "title": "Grupo de trabajo GWT",
         "startTimestamp": 1383231600,
-   "presenterIds": [ "organizadores"],
+   "presenterIds": [ "juanluis"],
         "endTimestamp": 1383246000,
    "subtype": "SESSION",
    "location": "sala_group",
    "isLivestream": true,
    "id": "group_7"
-	}  
+	}
 	]
 }
 
