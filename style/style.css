@@ -463,7 +463,7 @@ margin-right:2px;
 .col3{width:20%;float:left;margin-left:3.5%;}
 .col6{width:45%;float:left;margin-left:5%;}
 .col10 {width:75%;float:left;margin-left:5%;}*/
-.solouna{border-bottom:1px solid #EEEEEE;background:#C1CEA0;}
+.solouna{border-bottom:1px solid #EEEEEE;background:#C1CEA0;font-size: 20px; padding-top: 5px; padding-bottom: 5px; text-align:center}
 /*
 .solouna .col2{margin-left:0.7%;width:6.5%}
 .solouna .col10 span{text-align:center;width:100%;}
@@ -471,12 +471,13 @@ margin-right:2px;
 .col4{width:30%;float:left;margin-left:3.33}
 .aligncenter2 span{text-align:center;}
 */
-.columna0{background-color:#000; color: #FFF}
-.columna1{background:#5A81C1;color:#ffffff;}
-.columna1 span{color:#ffffff;}
-.columna2{background:#F7C640;}
+.columna0{background-color:#000; color: #FFF;margin-top: 3px}
+.columna1{background:#5A81C1;color:#ffffff;margin-top: 3px}
+.columna1 span{color:#ffffff;margin-top: 3px}
+.columna2{background:#F7C640;margin-top: 3px}
 /*.col6.columna1{margin-left:2.3%;}*/
-#tablaprograma div{border-radius:4px;font-size: 14px}
+#tablaprograma {font-size:14px}
+#tablaprograma div{border-radius:4px}
 #tablaprograma div span{margin-top:8px}
 #cabecera span{font-size:20px;line-height:24px;width:100%;}
 
