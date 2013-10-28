@@ -119,6 +119,7 @@
 				<li>El ganador/a debe estar inscrito en el evento y presente para recoger el regalo.</li>
 				<li>Los que acaben entre las 5 primeras pposiciones de la clasificaci&oacute;n final tendr&aacute;n un premio de consolaci&oacute;n.</li>
 				<li>El recuento de los tuits se realizan a trav&eacute;s de un servicio externo a la organizaci&oacute;n del evento, por lo que no nos responsabilizamos de la veracidad de los mismos.</li>
+				<li>Se puede seguir la evolución del concurso <a href="https://www.hashtracking.com/reports/devfestsur/devfestsur/concurso">aqu&iacute;</a>.</li>
 			  </ul>
 			  <p>Mucha suerte a todos/as los participantes.</p>
             </div>
@@ -132,6 +133,7 @@
     </div>
 
   <div class="clearfix"></div>
+	<a href="https://play.google.com/store/apps/details?id=com.gdgdevfest.android.apps.devfestsur&hl=es" title="Descarga la app para Android"><img src="img/google-play.png" alt="Descarga la app en Play Store"/></a>
   </div>
 </footer>		
 
