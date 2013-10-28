@@ -115,8 +115,8 @@
 			  <ul>
 				<li>Para que el tuit contabilice debe incluir el hashtag #DevFestSur</li>
 				<li>Los Retuits tambi&eacute;n cuentan para el concurso</li>
-				<li>El periodo para acumular tuits comienza el 25/10/2013 a las 0:00h y termina al finalizar el evento, es decir, aproximadamente a las 19:30h del 31/10/2013.</li>
-				<li>El ganador/a debe estar presente para recoger el regalo.</li>
+				<li>El periodo para acumular tuits comienza el 25/10/2013 a las 0:00h y termina al finalizar el evento, es decir, a las 19:00h del 31/10/2013.</li>
+				<li>El ganador/a debe estar inscrito en el evento y presente para recoger el regalo.</li>
 				<li>Los que acaben entre las 5 primeras pposiciones de la clasificaci&oacute;n final tendr&aacute;n un premio de consolaci&oacute;n.</li>
 				<li>El recuento de los tuits se realizan a trav&eacute;s de un servicio externo a la organizaci&oacute;n del evento, por lo que no nos responsabilizamos de la veracidad de los mismos.</li>
 			  </ul>
