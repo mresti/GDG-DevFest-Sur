@@ -1,0 +1,20 @@
+{
+ "track": [
+   {
+     "id": "tech",
+     "name": "Tech",
+     "level": 1,
+     "order_in_level": 1,
+     "color": "#99cc00",
+     "abstract": "Móvil"
+   },
+   {
+     "id": "entr",
+     "name": "Entrepreneurship",
+     "level": 1,
+     "order_in_level": 2,
+     "color": "#0294c7",
+     "abstract": "Emprendimiento"
+   }
+	]
+}

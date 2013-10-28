@@ -194,7 +194,7 @@
    "presenterIds": [ "organizadores"],
         "endTimestamp": 1383246000,
    "subtype": "SESSION",
-   "location": "sala_group",
+   "location": "sala_cen",
    "isLivestream": true,
    "id": "entr_7"
 	}

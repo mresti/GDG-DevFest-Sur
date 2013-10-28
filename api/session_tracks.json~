@@ -1,0 +1,27 @@
+{
+ "tracks": [
+  {
+   "description": "Track 1: Tech",
+   "title": "Tecnología",
+   "id": "tech",
+   "sessions": [
+    "tech_1",
+    "tech_2",
+		"tech_3",
+		"tech_4",
+		"tech_5"
+   ]
+  },
+  {
+   "description": "Track 2: Entrepreneurship",
+   "title": "Emprendimiento",
+   "id": "entr",
+   "sessions": [
+    "entr_1",
+    "entr_2"
+   ]
+  }
+ ],
+ "kind": "googledevelopers#tracksItem",
+ "etag": "\"osyxKcbM5ip0ctwDSYkRLORXcUo/WVA3sZItXgheWnnHEcLInWZzq-0\""
+}

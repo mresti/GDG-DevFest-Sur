@@ -1,18 +1,13 @@
 {
   "rooms": [
-  {
-      "id": "mwc",
-      "name":"Mobile World Center",
-      "floor": "1"
-    },
     {
       "id": "bar",
       "name":"Bar",
       "floor": "1"
     },
     {
-      "id": "auditori",
-      "name":"Auditori",
+      "id": "sala_tech",
+      "name":"Sala Tech",
       "floor": "1"
     }
 	]
