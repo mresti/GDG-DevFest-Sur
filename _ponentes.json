@@ -1,4 +1,4 @@
-﻿{"presenters":[
+{"presenters":[
 	{
 		"id":"artiles",
 		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/alfredoartiles.jpg",
@@ -130,16 +130,5 @@
 		"name":"Raúl Jiménez Ortega",
 		"cargo":"",
 		"bio":""
-	},
-	{
-		"id":"davidmerinas",
-		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/davidmerinas.jpg",
-		"linkedin":"http://es.linkedin.com/in/davidmerinas",
-		"plusoneUrl":"https://plus.google.com/101438124041390767441",
-		"publicPlusId":"101438124041390767441",
-		"twitter":"https://twitter.com/davidmerinas",
-		"name":"David Merinas",
-		"cargo":"Gerente en Deidos Estudio y CTO de UNIPimus",
-		"bio":"Físico, programador y emprendedor de Córdoba. Cofundador en 2008 de Deidos Estudio, consultora especializada en diseño web y de UNIPimus en 2012, plataforma que pone en contacto a estudiantes de intercambio en el extranjero con empresas que desean abrirse al mercado internacional. Escribe sobre marketing online y negocios en internet en su blog www.davidmerinas.com."
 	}
 ]}
