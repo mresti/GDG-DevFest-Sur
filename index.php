@@ -133,7 +133,7 @@
     </div>
 
   <div class="clearfix"></div>
-	<a href="https://play.google.com/store/apps/details?id=com.gdgdevfest.android.apps.devfestsur&hl=es" title="Descarga la app para Android"><img src="img/google-play.png" alt="Descarga la app en Play Store"/></a>
+
   </div>
 </footer>		
 
