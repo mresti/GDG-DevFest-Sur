@@ -3,9 +3,9 @@
   {
    "description": "Estado del arte y breve descripción de las diferentes implementaciones de realidad aumentada para Android: Wikitude, Metaio y Layar. Taller práctico sobre Wikitude: reconocimiento de imágenes y geolocalización con Google Maps usando KML.",
    "title": "Realidad aumentada en Android. Reconocimiento de imágenes y geolocalización usando Google Maps.",
-   "startTimestamp": 1383127200,
+   "startTimestamp": 1436522400,
    "presenterIds": [ "nacho"],
-   "endTimestamp": 1383129900,
+   "endTimestamp": 1436525100,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
@@ -14,43 +14,53 @@
   {
    "description": "Oculus VR",
    "title": "Oculus VR",
+      "startTimestamp": 1436544000,
    "presenterIds": [ "asier"],
+      "endTimestamp": 1436546700,
    "subtype": "SESSION",
-   "location": "sala_tech",
+   "location": "sala_cen",
    "isLivestream": true,
-   "id": "tech_2"
+   "id": "tech_9"
   },
 	{
    "description": "...o de las claves para que un equipo de 11 personas se encuentren ilusionadas, apasionadas y entregadas por su trabajo independientemente de todas las circunstancias.",
    "title": "La ética hacker aplicada al trabajo. El caso de Intelify",
+        "startTimestamp": 1436522400,
    "presenterIds": [ "aromeo"],
+        "endTimestamp": 1436525100,
    "subtype": "SESSION",
-   "location": "sala_entr",
+   "location": "sala_emp",
    "isLivestream": true,
    "id": "entr_1"
 	},
 	{
    "description": "Maven es un gestor de dependencias para Java, que, empieza a ser ya habitual en el desarrollo de librerías para Android. En la charla intentaré explicar las ventajas de usar Maven y expondremos algun ejemplo en el que se muestre su potencial.",
    "title": "Maven en Android",
+        "startTimestamp": 1436535000,
    "presenterIds": [ "hidabe"],
+        "endTimestamp": 1436536800,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
-   "id": "tech_3"
+   "id": "tech_6"
 	},
 	{
    "description": "Cómo llevar al mercado una idea sin más inversión que tu tiempo.",
    "title": "Entreprenuerlopers",
+        "startTimestamp": 1436553900,
    "presenterIds": [ "artiles"],
+        "endTimestamp": 1436556600,
    "subtype": "SESSION",
-   "location": "sala_tech",
+   "location": "sala_cen",
    "isLivestream": true,
-   "id": "entr_2"
+   "id": "entr_6"
 	},
 	{
    "description": "De dónde venimos y a dónde vamos.",
    "title": "AngularJS",
+        "startTimestamp": 1436529600,
    "presenterIds": [ "iguardado"],
+        "endTimestamp": 1436532300,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
@@ -59,20 +69,126 @@
 	{
    "description": "El objetivo de esta charla es realizar una introducción muy breve a TDD y, a continuación, mostrar cómo aplicar TDD en la práctica.",
    "title": "Las claves del Desarrollo Dirigido por Pruebas (o TDD)",
+        "startTimestamp": 1436525100,
    "presenterIds": [ "jgutierrez"],
+        "endTimestamp": 1436527800,
+   "subtype": "SESSION",
+   "location": "sala_tech",
+   "isLivestream": true,
+   "id": "tech_2"
+	},	
+	{
+   "description": "Pago Presencial y e-commerce.",
+   "title": "Google Wallet",
+        "startTimestamp": 1436525100,
+   "presenterIds": [ "jjrider"],
+        "endTimestamp": 1436527800,
+   "subtype": "SESSION",
+   "location": "sala_emp",
+   "isLivestream": true,
+   "id": "tech_3"
+	},	
+	{
+   "description": "WEBRTC",
+   "title": "WEBRTC",
+        "startTimestamp": 1436532300,
+   "presenterIds": [ "dmunioz"],
+        "endTimestamp": 1436535000,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
    "id": "tech_5"
 	},	
 	{
-   "description": "Pago Presencial y e-commerce.",
-   "title": "Google Wallet",
-   "presenterIds": [ "jjrider"],
+   "description": "Services vs Intentservices",
+   "title": "Services vs Intentservices",
+        "startTimestamp": 1436536800,
+   "presenterIds": [ "jjsanchez"],
+        "endTimestamp": 1436538600,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
-   "id": "tech_6"
+   "id": "tech_7"
+	},	
+	{
+   "description": "Metricas en apps",
+   "title": "Metricas en apps",
+        "startTimestamp": 1436529600,
+   "presenterIds": [ "rjimenez"],
+        "endTimestamp": 1436532300,
+   "subtype": "SESSION",
+   "location": "sala_emp",
+   "isLivestream": true,
+   "id": "entr_2"
+	},	
+	{
+   "description": "Internalizacion de apps",
+   "title": "Internalizacion de apps",
+        "startTimestamp": 1436532300,
+   "presenterIds": [ "cponce"],
+        "endTimestamp": 1436535000,
+   "subtype": "SESSION",
+   "location": "sala_emp",
+   "isLivestream": true,
+   "id": "entr_3"
+	},	
+	{
+   "description": "Como encontrar socio tecnologico",
+   "title": "Como encontrar socio tecnologico",
+        "startTimestamp": 1436535000,
+   "presenterIds": [ "cponce"],
+        "endTimestamp": 1436536800,
+   "subtype": "SESSION",
+   "location": "sala_emp",
+   "isLivestream": true,
+   "id": "entr_4"
+	},	
+	{
+   "description": "Google Glass",
+   "title": "Google Glass",
+        "startTimestamp": 1436536800,
+   "presenterIds": [ "aleonar"],
+        "endTimestamp": 1436538600,
+   "subtype": "SESSION",
+   "location": "sala_emp",
+   "isLivestream": true,
+   "id": "tech_8"
+	},	
+	{
+   "description": "Descripción: En esta escalofriante historia de terror aprovecharemos las espeluznantes experiencias de un oscuro equipo de desarrolladores intentando prototipar contrarreloj una app de Android, para explicar como hacer un 'sencillo' pero horripilante backend utilizando App Engine, y esquivar a los horrores Primigenios (también llamados errores) que acechan a los primerizos con esta monstruosa tecnología.",
+   "title": "Cuentos de la cripta: utilizando App Engine como backend para Android",
+        "startTimestamp": 1436546700,
+   "presenterIds": [ "rserrano"],
+        "endTimestamp": 1436549400,
+   "subtype": "SESSION",
+   "location": "sala_cen",
+   "isLivestream": true,
+   "id": "tech_10"
+	},	
+	{
+   "description": "Metricas con Analitycs",
+   "title": "Metricas con Analitycs",
+        "startTimestamp": 1436551200,
+   "presenterIds": [ "aleonar"],
+        "endTimestamp": 1436553900,
+   "subtype": "SESSION",
+   "location": "sala_cen",
+   "isLivestream": true,
+   "id": "entr_5"
+	},	
+	{
+   "description": "Comunidades (GDG, BB, JS, SW, etc.)",
+   "title": "Comunidades (GDG, BB, JS, SW, etc.)",
+        "startTimestamp": 1436556600,
+   "presenterIds": [ "organizadores"],
+        "endTimestamp": 1436558400,
+   "subtype": "SESSION",
+   "location": "sala_cen",
+   "isLivestream": true,
+   "id": "entr_7"
 	}
+     
 	]
 }
+
+

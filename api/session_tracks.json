@@ -7,10 +7,14 @@
    "sessions": [
     "tech_1",
     "tech_2",
-		"tech_3",
-		"tech_4",
-		"tech_5",
-		"tech_6"
+    "tech_3",
+    "tech_4",
+    "tech_5",
+    "tech_6",
+    "tech_7",
+    "tech_8",
+    "tech_9",
+    "tech_10"
    ]
   },
   {
@@ -19,9 +23,31 @@
    "id": "entr",
    "sessions": [
     "entr_1",
-    "entr_2"
+    "entr_2",
+    "entr_3",
+    "entr_4",
+    "entr_5",
+    "entr_6",
+    "entr_7"
+   ]
+  },
+  {
+   "description": "Track 3: Codelab",
+   "title": "Grupo de trabajo",
+   "id": "group",
+   "sessions": [
+    "group_1"
+   ]
+  },
+  {
+   "description": "Track 4: Hack",
+   "title": "Espacio Hacker",
+   "id": "hack",
+   "sessions": [
+    "hack_1"
    ]
   }
+     
  ],
  "kind": "googledevelopers#tracksItem",
  "etag": "\"osyxKcbM5ip0ctwDSYkRLORXcUo/WVA3sZItXgheWnnHEcLInWZzq-0\""
