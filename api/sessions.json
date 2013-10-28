@@ -196,7 +196,7 @@
    "subtype": "SESSION",
    "location": "sala_hack",
    "isLivestream": true,
-   "id": "hack_7"
+   "id": "hack_1"
 	},	
 	{
    "description": "Juan Luis Pérez, CTO y cofundador de Intelify nos presentará la arquitectura y los principales rasgos de la plataforma Intelify y nos enseñará brevemente a usar la tecnología GWT y construir de forma rápida y ordenada una aplicación web, y comentará los puntos fuertes y débiles de esta tecnología.",

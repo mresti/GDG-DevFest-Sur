@@ -25,14 +25,6 @@
      "abstract": "Tecnología"
    },
      {
-     "id": "cen",
-     "name": "Central",
-     "level": 1,
-     "order_in_level": 4,
-     "color": "#8a2be2",
-     "abstract": "Tecnología"
-   },
-     {
      "id": "group",
      "name": "Grupos de trabajo",
      "level": 1,
