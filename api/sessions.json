@@ -12,8 +12,8 @@
    "id": "tech_1"
   },
   {
-   "description": "Oculus VR",
-   "title": "Oculus VR",
+   "description": "Cómo podemos engañar a nuestro cerebro con algo tan simple como una Oculus Rift, se explicarán los entresijos de cómo entendemos la realidad y se les ofrecerá a los asistentes al prosibilidad de probar las Oculus Rift con una de nuestras demostraciones.",
+   "title": "Realidad virtual, percepción real.",
       "startTimestamp": 1383231600,
    "presenterIds": [ "asier"],
       "endTimestamp": 1383234300,
@@ -56,15 +56,15 @@
    "id": "entr_6"
 	},
 	{
-   "description": "POR AQUI FALTA!!!! De dónde venimos y a dónde vamos.",
-   "title": "AngularJS",
-        "startTimestamp": 1383217200,
+   "description": "Angular JS: De dónde venimos y a dónde vamos.",
+   "title": "Angular JS: De dónde venimos y a dónde vamos.",
+   "startTimestamp": 1383219900,
    "presenterIds": [ "iguardado"],
-        "endTimestamp": 1383219900,
+        "endTimestamp": 1383222600,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
-   "id": "tech_4"
+   "id": "tech_5"
 	},
 	{
    "description": "El objetivo de esta charla es realizar una introducción muy breve a TDD y, a continuación, mostrar cómo aplicar TDD en la práctica.",
@@ -78,8 +78,8 @@
    "id": "tech_2"
 	},	
 	{
-   "description": "Pago Presencial y e-commerce.",
-   "title": "Google Wallet",
+   "description": "Google Wallet: Pagos presenciales y e-commerce. Cómo funciona en Android",
+   "title": "Google Wallet: Pagos presenciales y e-commerce. Cómo funciona en Android",
         "startTimestamp": 1383212700,
    "presenterIds": [ "jjrider"],
         "endTimestamp": 1383215400,
@@ -91,17 +91,17 @@
 	{
    "description": "Hablaremos del estado actual de WebRTC, un protocolo de comunicación que revolucionará para siempre la web y el mundo VOIP en los próximos años. Mostraremos implementaciones que ya están funcionando y como con un poco de javascript y dos navegadores podremos comunicar media (audio, video, chat, ficheros) en tiempo real sin necesidad de plugins directamente entre navegadores.",
    "title": "Web 3.0: WebRTC",
-        "startTimestamp": 1383219900,
+   "startTimestamp": 1383217200,
    "presenterIds": [ "dmunioz"],
-        "endTimestamp": 1383222600,
+        "endTimestamp": 1383219900,
    "subtype": "SESSION",
    "location": "sala_tech",
    "isLivestream": true,
-   "id": "tech_5"
+   "id": "tech_4"
 	},	
 	{
-   "description": "Services vs Intentservices",
-   "title": "Services vs Intentservices",
+   "description": "En esta charla veremos los diferentes tipos de Services que existen en Android y cómo podemos utilizarlos en nuestras aplicaciones para realizar operaciones en background.",
+   "title": "Android Services",
         "startTimestamp": 1383224400,
    "presenterIds": [ "jjsanchez"],
         "endTimestamp": 1383226200,
@@ -111,8 +111,8 @@
    "id": "tech_7"
 	},	
 	{
-   "description": "Metricas en apps",
-   "title": "Metricas en apps",
+   "description": "Durante la charla veremos mediante un ejemplo práctico cómo implementar las herramientas Mixpanel y Optimizely, con ellas podremos realizar Test A/B con sólo algunos clics (sin necesidad de programar) además de definir métricas que nos ayudarán a la hora de tomar decisiones para optimizar nuestros proyectos web. También veremos rápidamente como implementar Google Tag Manager para darle libertad a los responsables de marketing para realizar cambios de manera totalmente autónoma.",
+   "title": "Herramientas de optimización, un enfoque práctico.",
         "startTimestamp": 1383217200,
    "presenterIds": [ "rjimenez"],
         "endTimestamp": 1383219900,
@@ -122,8 +122,8 @@
    "id": "entr_2"
 	},	
 	{
-   "description": "Internalizacion de apps",
-   "title": "Internalizacion de apps",
+   "description": "Sondear, descubrir y analizar diferentes mercados internacionales a través de aplicaciones móviles, página web, landing pages y campañas en Redes Sociales, basados en GudyMail.",
+   "title": "Búsqueda de mercados internacionales para una Startup",
         "startTimestamp": 1383219900,
    "presenterIds": [ "cponce"],
         "endTimestamp": 1383222600,
@@ -144,8 +144,8 @@
    "id": "entr_4"
 	},	
 	{
-   "description": "Google Glass",
-   "title": "Google Glass",
+   "description": "Métricas con Google Analytics",
+   "title": "Métricas con Google Analytics",
         "startTimestamp": 1383224400,
    "presenterIds": [ "aleonar"],
         "endTimestamp": 1383226200,
@@ -153,6 +153,7 @@
    "location": "sala_emp",
    "isLivestream": true,
    "id": "tech_8"
+   
 	},	
 	{
    "description": "Descripción: En esta escalofriante historia de terror aprovecharemos las espeluznantes experiencias de un oscuro equipo de desarrolladores intentando prototipar contrarreloj una app de Android, para explicar como hacer un 'sencillo' pero horripilante backend utilizando App Engine, y esquivar a los horrores Primigenios (también llamados errores) que acechan a los primerizos con esta monstruosa tecnología.",
@@ -166,10 +167,10 @@
    "id": "tech_10"
 	},	
 	{
-   "description": "Metricas con Analitycs",
-   "title": "Metricas con Analitycs",
+   "description": "Google Glass",
+   "title": "Google Glass",
         "startTimestamp": 1383238800,
-   "presenterIds": [ "aleonar"],
+   "presenterIds": [ "julianmb"],
         "endTimestamp": 1383241500,
    "subtype": "SESSION",
    "location": "sala_cen",
@@ -177,10 +178,10 @@
    "id": "entr_5"
 	},	
 	{
-   "description": "Comunidades (GDG, BB, JS, SW, etc.)",
-   "title": "Comunidades (GDG, BB, JS, SW, etc.)",
+   "description": "Durante la última década la irrupción del concepto crowd y de comunidad han provocado la aparición de numerosas comunidades de aprendizaje, de innovación y de colaboración. En esta charla daremos una visión global de las comunidades existentes en Córdoba y Andalucía, y el potencial de su desarrollo vinculadas a espacios de coworking.",
+   "title": "Comunidades de aprendizaje e innovación",
         "startTimestamp": 1383244200,
-   "presenterIds": [ "organizadores"],
+   "presenterIds": [ "miguelcalero"],
         "endTimestamp": 1383246000,
    "subtype": "SESSION",
    "location": "sala_cen",
@@ -203,12 +204,22 @@
    "title": "Grupo de trabajo GWT",
         "startTimestamp": 1383231600,
    "presenterIds": [ "juanluis"],
+        "endTimestamp": 1383238800,
+   "subtype": "SESSION",
+   "location": "sala_group",
+   "isLivestream": true,
+   "id": "group_1"
+	},
+	{
+	"description": "Reunión informal con el DevRel de Google.",
+   "title": "Grupo de trabajo GWT",
+        "startTimestamp": 1383238800,
+   "presenterIds": [ "juanluis"],
         "endTimestamp": 1383246000,
    "subtype": "SESSION",
    "location": "sala_group",
    "isLivestream": true,
    "id": "group_1"
-	}
 	]
 }
 
