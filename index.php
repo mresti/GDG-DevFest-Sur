@@ -28,7 +28,7 @@
   <!--[if IE 7]>
   <link rel="stylesheet" href="style/font-awesome-ie7.css">
   <![endif]-->		
-  <link href="style/style7.css" rel="stylesheet">
+  <link href="style/style.css" rel="stylesheet">
   
   
   <!-- HTML5 Support for IE -->
