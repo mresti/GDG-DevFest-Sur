@@ -18,7 +18,7 @@
 		"publicPlusId":"108749679517324971736",
 		"twitter":"https://twitter.com/asierarranz",
 		"name":"Asier Arranz",
-		"cargo":"Using technology to create emotions",
+		"cargo":"Co-fundador de UndoSpace",
 		"bio":"I have a very strong knowledge in all technology áreas, combined with business skills adquired though my 2 startups Nebutek & Atlanpix (1 alive, 1 failed).<\/p><p>I raised an investment from Wayra Spain, and made technical due diligences to Job and Talent, Blink and Mimub. Months later JobandTalent raised $3.3M and Blink was adquired by Groupon.<\/p><p>I have been Global Developer Advisor for Campus Party Europe; Leader and organizer of NASA Space Apps Challenge in Spain, TEDx Speaker (Talk: \"Virtual reality, real perception: Tricking our brain\"), teacher at IE Business School and Repsol. Mentor at Startup Weekend, NetDay and Acelera X2 Colombia. I have made tech demostrations at Microsoft and Telefónica. And I usually collaborate teaching technology activities for kids."
 	},
 	{
@@ -33,6 +33,17 @@
 		"bio":"Emprendedor en serie e interesado por la información que nos rodea, dirige Intelify, empresa que hace la vida más fácil a los usuarios a través de automatizaciones de procesos en tareas cotidianas.<\/p><p>Ha diseñado, desarrollado y llevado a cabo múltiples proyectos pioneros de base tecnológica. Entre ellos destaca Blobject, el primer servicio de alquiler de coches eléctricos con GPS para visitar ciudades (2004); Cordobapedia, enciclopedia de Córdoba con más de un millón de visitas anuales (2005); la creación de un sistema analítico y estadístico de póker online junto a Los Pelayos (2010); o el diseño del primer sistema de información de la fiesta de los Patios de Córdoba (2013). Además, viene impartiendo conferencias y clases desde el año 2000 hablando sobre su principal pasión: el impacto de las TIC en el mundo actual."
 	},
 	{
+		"id":"julianmb",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3287377834/e88d8a19972ae8c6970bd3c01c8019c3_bigger.png",
+		"linkedin":"http://linkedin.com/in/julianmb",
+		"plusoneUrl":"https://plus.google.com/102043168453367495516",
+		"publicPlusId":"102043168453367495516",
+		"twitter":"https://twitter.com/julianmb",
+		"name":"Julián Muñoz Beltrán",
+		"cargo":"CEO at Droiders",
+		"bio":"Engineer | Entrepreneur | @GoogleGlass pioneer | CEO @Droiders @droidconES @GDG Organizer | Hungry and foolish."		
+	},
+	{
 		"id":"nacho",
 		"thumbnailUrl":"https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png",
 		"linkedin":"http://es.linkedin.com/in/neonigmacdb‎",
@@ -40,7 +51,7 @@
 		"publicPlusId":"115648284449607745671",
 		"twitter":"https://twitter.com/neonigmacdb",
 		"name":"José Ignacio Álvarez",
-		"cargo":"Desarrollador Android en WUL4",
+		"cargo":"Software Developer at WUL4 ",
 		"bio":"Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android."
 	},
 	{
@@ -84,8 +95,8 @@
 		"publicPlusId":"111805762735415754280",
 		"twitter":"https://twitter.com/ClaudioPonce",
 		"name":"Claudio Ponce",
-		"cargo":"Consultor de marketing estratégico, socio fundador de EMV consultores",
-		"bio":"Es consultor de marketing estratégico y socio fundador de EMV consultores, consultoria en Madrid y Castilla y León (España). Creador del \"Programa Meister\", que es un programa de diagnóstico y solución para potenciar las ventas, la competitividad, la diferenciación y la rentabilidad de las empresas. (Programa On line o talleres personalizados)."
+		"cargo":"Cofundador y CEO de GudyMail",
+		"bio":"Emprendedor de productos tecnológicos basados en la comunicación y formación  online a través del vídeo como, GudyMail, decisionesestrategicas.com y plataformaselearning.net."
 	},
 	{
 		"id":"aleonar",
@@ -129,6 +140,18 @@
 		"twitter":"http://twitter.com/hhkaos",
 		"name":"Raúl Jiménez Ortega",
 		"cargo":"Responsable de desarrollo de negocio en Proenium",
+		"bio":"Actualmente trabaja en el grupo de investigación Supercomputación - Algoritmos de la Universidad de Almería y como desarrollador Android para Idiria, una empresa de consultoría y desarrollo personalizado de aplicaciones para dispositivos móviles. También colabora en la comunidad de desarrolladores Android de Almería organizando pequeños eventos sobre Android."
+	},
+	
+	{
+		"id":"jjsanchez",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3378455948/197c23de6d2a309830ce4c2b7a3c0f0e_bigger.png",
+		"linkedin":"http://www.linkedin.com/pub/jos%C3%A9-juan-s%C3%A1nchez-hern%C3%A1ndez/6a/858/830",
+		"plusoneUrl":"https://plus.google.com/u/0/110700942765815639630/",
+		"publicPlusId":"110700942765815639630",
+		"twitter":"http://twitter.com/josejuansanchez",
+		"name":"José Juan Sánchez Hernández",
+		"cargo":"Desarrollador Android en Idiria",
 		"bio":"Ingeniero en informática y MBA por la EOI, Raúl lleva desarrollando proyectos web desde 1999. Conocedor de tecnologías de backend como de frontend, recientemente ha trabajado como frontend developer leader y product manager en Floqq.com donde finalmente ha desarrollado un rol más orientando a resultados. Recientemente se ha unido al equipo de Proenium, empresa que desarrolla tecnología inteligente para vehículos."
 	},
 	{
@@ -166,7 +189,7 @@
 	},
 	{
 		"id":"miguelcalero",
-		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3750861482/743fc629f0952aa851d9433c61c8477f.jpeg",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3750861482/743fc629f0952aa851d9433c61c8477f_bigger.jpeg",
 		"linkedin":"http://linkedin.com/in/miguelcalero",
 		"plusoneUrl":"https://plus.google.com/u/0/101433956359716876381",
 		"publicPlusId":"101433956359716876381",
