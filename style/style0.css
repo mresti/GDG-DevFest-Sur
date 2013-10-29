@@ -480,7 +480,7 @@ margin-right:2px;
 #tablaprograma div{border-radius:4px}
 #tablaprograma div span{margin-top:8px}
 #cabecera span{font-size:20px;line-height:24px;width:100%;}
-
+.columna1 small {color: #e31212;}
 /* Form */
 
 form button{
