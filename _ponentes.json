@@ -126,10 +126,10 @@
 		"linkedin":"http://es.linkedin.com/in/jimenezortegaraul",
 		"plusoneUrl":"https://plus.google.com/u/0/103394787368944111412",
 		"publicPlusId":"103394787368944111412",
-		"twitter":"",
+		"twitter":"http://twitter.com/hhkaos",
 		"name":"Raúl Jiménez Ortega",
-		"cargo":"",
-		"bio":""
+		"cargo":"Responsable de desarrollo de negocio en Proenium",
+		"bio":"Ingeniero en informática y MBA por la EOI, Raúl lleva desarrollando proyectos web desde 1999. Conocedor de tecnologías de backend como de frontend, recientemente ha trabajado como frontend developer leader y product manager en Floqq.com donde finalmente ha desarrollado un rol más orientando a resultados. Recientemente se ha unido al equipo de Proenium, empresa que desarrolla tecnología inteligente para vehículos."
 	},
 	{
 		"id":"davidmerinas",
@@ -163,5 +163,16 @@
 		"name":"David Muñoz Padín",
 		"cargo":"CEO en Quaip LTD",
 		"bio":"CEO en Quaip LTD. Expecialista en Voip, SysAdmin linux, Voip developer, instalo y doy servicio de aplicaciones de elearning, sistemas teléfonicos, hosting/housing, servidores virtualizados con sistemas de alta disponibilidad y failover. Docente en cursos basados en webinars de Linux , virtualización, kamailio y Asterisk con la colaboración de Fundación Guadalux y Avanzada 7. Colaboro con #openwebinars para la divulgación del software libre."		
+	},
+	{
+		"id":"miguelcalero",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3750861482/743fc629f0952aa851d9433c61c8477f.jpeg",
+		"linkedin":"http://linkedin.com/in/miguelcalero",
+		"plusoneUrl":"https://plus.google.com/u/0/101433956359716876381",
+		"publicPlusId":"101433956359716876381",
+		"twitter":"https://twitter.com/miguelcalero",
+		"name":"Miguel Ángel Calero",
+		"cargo":"Catalizador y gestor en coSfera::coworking en Córdoba",
+		"bio":"Me apasiona saber cómo funcionan las cosas y después probar, cambiar, mejorar, #hacerhacerhacer... unos lo llaman actitud hacker y otros innovación. La civilización tal y como la conocíamos ya no existe, internet lo está cambiando todo, también cómo nos relacionamos, trabajamos y generamos valor, y coSfera es mi excusa para explorar y aprender.<\/p><p>En lo formal, soy padre de dos hijos, Ingeniero Agrónomo de la Universidad de Córdoba con más de 10 años de experiencia en construir ciudad, fundador de PLANEM Ingeniería, Arquitectura y Urbanismo, catalizador y gestor del espacio de coworking coSfera, fundador de CityLabs360 y socio en Caricae Agromediterránea."		
 	}
 ]}
