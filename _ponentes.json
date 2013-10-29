@@ -152,5 +152,16 @@
 		"name":"Juan Luis Pérez",
 		"cargo":"Jefe de tecnología y socio fundador en Intelify",
 		"bio":"Jefe de tecnología y socio fundador en Intelify, empresa que investiga y desarrolla aplicativos para facilitar la vida del usuario conectando el mundo físico e internet.<\/p><p>Desde el año 2000, Juan Luis viene diseñando, analizando y desarrollando múltiples proyectos como gestores de procesos y trámites, una plataforma de análisis estadístico de partidas de póker y en los últimos tres años y medio el sistema de información de Intelify que integra, entre otros, sistemas de captura y analítica de flujos de información para smart cities, procesos de identificación del usuario en el mundo físico y su analítica asociada etc."
+	},
+	{
+		"id":"dmunioz",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3753845847/453d46351814aa8805e18f1b1c6a6a9f_bigger.jpeg",
+		"linkedin":"",
+		"plusoneUrl":"",
+		"publicPlusId":"",
+		"twitter":"https://twitter.com/dperilla",
+		"name":"David Muñoz Padín",
+		"cargo":"CEO en Quaip LTD",
+		"bio":"CEO en Quaip LTD. Expecialista en Voip, SysAdmin linux, Voip developer, instalo y doy servicio de aplicaciones de elearning, sistemas teléfonicos, hosting/housing, servidores virtualizados con sistemas de alta disponibilidad y failover. Docente en cursos basados en webinars de Linux , virtualización, kamailio y Asterisk con la colaboración de Fundación Guadalux y Avanzada 7. Colaboro con #openwebinars para la divulgación del software libre."		
 	}
 ]}

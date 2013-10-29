@@ -89,8 +89,8 @@
    "id": "tech_3"
 	},	
 	{
-   "description": "WebRTC",
-   "title": "WEBRTC",
+   "description": "Hablaremos del estado actual de WebRTC, un protocolo de comunicación que revolucionará para siempre la web y el mundo VOIP en los próximos años. Mostraremos implementaciones que ya están funcionando y como con un poco de javascript y dos navegadores podremos comunicar media (audio, video, chat, ficheros) en tiempo real sin necesidad de plugins directamente entre navegadores.",
+   "title": "Web 3.0: WebRTC",
         "startTimestamp": 1383219900,
    "presenterIds": [ "dmunioz"],
         "endTimestamp": 1383222600,
