@@ -119,6 +119,8 @@
 				<li>El ganador/a debe estar inscrito en el evento y presente para recoger el regalo.</li>
 				<li>Los que acaben entre las 5 primeras pposiciones de la clasificaci&oacute;n final tendr&aacute;n un premio de consolaci&oacute;n.</li>
 				<li>El recuento de los tuits se realizan a trav&eacute;s de un servicio externo a la organizaci&oacute;n del evento, por lo que no nos responsabilizamos de la veracidad de los mismos.</li>
+				<li>No se admiten cuentas creadas para la ocasión, ni clones, ni spammers, ni cualquier otro comportamiento que pueda considerarse fraudulento o anómalo.</li>
+				<li>La organización se reserva el derecho de descalificar a cualquier usuario que no cumpla con estos requisitos.</li>
 				<li>Se puede seguir la evolución del concurso <a href="https://www.hashtracking.com/reports/devfestsur/devfestsur/concurso">aqu&iacute;</a>.</li>
 			  </ul>
 			  <p>Mucha suerte a todos/as los participantes.</p>
