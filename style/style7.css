@@ -473,6 +473,7 @@ margin-right:2px;
 */
 .columna0{background-color:#000; color: #FFF;margin-top: 3px}
 .columna1{background:#5A81C1;color:#ffffff;margin-top: 3px}
+.columna1 a { color: #EEE }
 .columna1 span{color:#ffffff;margin-top: 3px}
 .columna2{background:#F7C640;margin-top: 3px}
 /*.col6.columna1{margin-left:2.3%;}*/
@@ -498,6 +499,10 @@ margin-left:15px;
   margin-right: 3%;
   margin-top: 2%;
   margin-bottom: 2%;
+}
+
+.rrss {
+	float: right;
 }
 
 /* Footer */
