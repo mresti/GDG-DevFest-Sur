@@ -1,4 +1,11 @@
-GDG-DevFest
+GDG DevFest Sur Web
 ===================
 
-GDG-DevFest theme based on Wedding bootstrap design
+Live: [http://mresti.github.io/GDG-DevFest-Sur/](http://mresti.github.io/GDG-DevFest-Sur/)
+
+Evento: [https://developers.google.com/events/4647822146142208/](https://developers.google.com/events/4647822146142208/)
+
+
+About:
+------
+GDG-DevFest-Sur theme based on Wedding bootstrap design.
