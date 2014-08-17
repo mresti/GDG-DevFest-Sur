@@ -1,0 +1,201 @@
+{"presenters":[
+	{
+		"id":"artiles",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/alfredoartiles.jpg",
+		"linkedin":"http://www.linkedin.com/in/alfredoartiles",
+		"plusoneUrl":"https://plus.google.com/108635286356285102317",
+		"publicPlusId":"108635286356285102317",
+		"twitter":"https://twitter.com/aartiles24",
+		"name":"Alfredo Artiles",
+		"cargo":"SocialBro Co-founder and CTO",
+		"bio":"Licenciado en Ciencias de la Computación, lleva 15 años desarrollando proyectos en Internet. Co-fundador y CTO de SocialBro.com, una herramienta de analítica y gestión de audiencias en Twitter nacida en Córdoba y que cuenta con 180,000 usuarios y más de 3,000 clientes en todo el mundo."
+	},
+	{
+		"id":"asier",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/asierarranz.jpg",
+		"linkedin":"http://www.linkedin.com/in/asierarranz",
+		"plusoneUrl":"https://plus.google.com/108749679517324971736",
+		"publicPlusId":"108749679517324971736",
+		"twitter":"https://twitter.com/asierarranz",
+		"name":"Asier Arranz",
+		"cargo":"Co-fundador de UndoSpace",
+		"bio":"I have a very strong knowledge in all technology áreas, combined with business skills adquired though my 2 startups Nebutek & Atlanpix (1 alive, 1 failed).<\/p><p>I raised an investment from Wayra Spain, and made technical due diligences to Job and Talent, Blink and Mimub. Months later JobandTalent raised $3.3M and Blink was adquired by Groupon.<\/p><p>I have been Global Developer Advisor for Campus Party Europe; Leader and organizer of NASA Space Apps Challenge in Spain, TEDx Speaker (Talk: \"Virtual reality, real perception: Tricking our brain\"), teacher at IE Business School and Repsol. Mentor at Startup Weekend, NetDay and Acelera X2 Colombia. I have made tech demostrations at Microsoft and Telefónica. And I usually collaborate teaching technology activities for kids."
+	},
+	{
+		"id":"aromeo",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/alfredoromeo.jpg",
+		"linkedin":"http://www.linkedin.com/in/alfredoromeo",
+		"plusoneUrl":"https://plus.google.com/108696100362557238756",
+		"publicPlusId":"108696100362557238756",
+		"twitter":"https://twitter.com/aromeo",
+		"name":"Alfredo Romeo",
+		"cargo":"CEO at Intelify, nowadays, connecting objects and people to the Internet",
+		"bio":"Emprendedor en serie e interesado por la información que nos rodea, dirige Intelify, empresa que hace la vida más fácil a los usuarios a través de automatizaciones de procesos en tareas cotidianas.<\/p><p>Ha diseñado, desarrollado y llevado a cabo múltiples proyectos pioneros de base tecnológica. Entre ellos destaca Blobject, el primer servicio de alquiler de coches eléctricos con GPS para visitar ciudades (2004); Cordobapedia, enciclopedia de Córdoba con más de un millón de visitas anuales (2005); la creación de un sistema analítico y estadístico de póker online junto a Los Pelayos (2010); o el diseño del primer sistema de información de la fiesta de los Patios de Córdoba (2013). Además, viene impartiendo conferencias y clases desde el año 2000 hablando sobre su principal pasión: el impacto de las TIC en el mundo actual."
+	},
+	{
+		"id":"julianmb",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3287377834/e88d8a19972ae8c6970bd3c01c8019c3_bigger.png",
+		"linkedin":"http://linkedin.com/in/julianmb",
+		"plusoneUrl":"https://plus.google.com/102043168453367495516",
+		"publicPlusId":"102043168453367495516",
+		"twitter":"https://twitter.com/julianmb",
+		"name":"Julián Muñoz Beltrán",
+		"cargo":"CEO at Droiders",
+		"bio":"Engineer | Entrepreneur | @GoogleGlass pioneer | CEO @Droiders @droidconES @GDG Organizer | Hungry and foolish."		
+	},
+	{
+		"id":"nacho",
+		"thumbnailUrl":"https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png",
+		"linkedin":"http://es.linkedin.com/in/neonigmacdb‎",
+		"plusoneUrl":"https://plus.google.com/115648284449607745671",
+		"publicPlusId":"115648284449607745671",
+		"twitter":"https://twitter.com/neonigmacdb",
+		"name":"José Ignacio Álvarez",
+		"cargo":"Software Developer at WUL4 ",
+		"bio":"Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android."
+	},
+	{
+		"id":"jgutierrez",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/javier.png",
+		"linkedin":"",
+		"plusoneUrl":"https://plus.google.com/111076905746463321105",
+		"publicPlusId":"111076905746463321105",
+		"twitter":"",
+		"name":"Javier Gutierrez",
+		"cargo":"Profesor en Universidad de Sevilla",
+		"bio":"Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.<\/p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software."
+	},
+	{
+		"id":"hidabe",
+		"thumbnailUrl":"https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png",
+		"linkedin":"http://www.linkedin.com/in/hidabe",
+		"plusoneUrl":"https://plus.google.com/109623390521488791490‎",
+		"publicPlusId":"109623390521488791490",
+		"twitter":"https://twitter.com/hidabe",
+		"name":"Fernando Hidalgo",
+		"cargo":"Analista/Programador, fundador de Sopinet",
+		"bio":"Desarrollador web y tecnologías smartphones, analista\/programador, mantenimiento de sistemas y servidores linux.<\/p><p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web\/app sencillas para problemas no triviales.<\/p><p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo."
+	},
+	{
+		"id":"rserrano",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/rubenserrano.jpg",
+		"linkedin":"",
+		"plusoneUrl":"https://plus.google.com/107355249636672330536‎",
+		"publicPlusId":"107355249636672330536",
+		"twitter":"https://twitter.com/akelael",
+		"name":"Rubén Serrano",
+		"cargo":"Mobile Software Engineer",
+		"bio":"Apasionado del desarrollo para plataformas móviles, en los últimos años se ha especializado en Android. Ha trabajado como becario, desarrollador y profesor de universidad, y no por ello la tiene más grande (la Fuerza). En sus ratos libres le gusta participar del drama que supone organizar el GDG Barcelona."
+	},
+	{
+		"id":"cponce",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/claudioponce.jpg",
+		"linkedin":"http://es.linkedin.com/in/claudioponce",
+		"plusoneUrl":"https://plus.google.com/111805762735415754280",
+		"publicPlusId":"111805762735415754280",
+		"twitter":"https://twitter.com/ClaudioPonce",
+		"name":"Claudio Ponce",
+		"cargo":"Cofundador y CEO de GudyMail",
+		"bio":"Emprendedor de productos tecnológicos basados en la comunicación y formación  online a través del vídeo como, GudyMail, decisionesestrategicas.com y plataformaselearning.net."
+	},
+	{
+		"id":"aleonar",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/andresleonardo.jpg",
+		"linkedin":"http://uk.linkedin.com/in/aleonar",
+		"plusoneUrl":"https://plus.google.com/104070495650441591893",
+		"publicPlusId":"104070495650441591893",
+		"twitter":"",
+		"name":"Andrés Leonardo",
+		"cargo":"Developer Program Manager, Google",
+		"bio":"Andrés es Developer Relations Program Manager para Google en España. Con una amplia experiencia en I+D e ingeniería del software, gran parte de su carrera profesional se ha centrado en la planificación e implementación de proyectos de innovación relacionados con los paradigmas de OpenSource, trabajando anteriormente para empresas como Telefónica."
+	},
+	{
+		"id":"jjrider",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/juanjoserider.jpg",
+		"linkedin":"http://es.linkedin.com/in/juanjoseriderjimenez",
+		"plusoneUrl":"https://plus.google.com/117460846665715879148",
+		"publicPlusId":"117460846665715879148",
+		"twitter":"https://twitter.com/jjriderWUL4",
+		"name":"Juan José Rider",
+		"cargo":"CEO de WUL4",
+		"bio":"Juan José Rider Jiménez es el CEO de WUL4. Con más de 13 años de experiencia en medios de pago, Juan José proporciona servicios relacionados con la seguridad, tecnología y normativa (PCI, EMV, VbV, etc) a los más importantes players de los medios de pago de España y Europa. Especialista de desarrollo seguro, hacking ético, seguridad en las aplicaciones móviles, maniático innovador (más que emprendedor), esposo y orgulloso padre de tres princesas. Siempre ligado al mundo de los medios de pago, desarrolla e implementa la principal pasarela de pagos virtual de España. Colaborador de iniciativas como OWASP, de la que es miembro desde hace 5 años e imparte ponencias."
+	},
+	{
+		"id":"iguardado",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/ivanguardado.jpg",
+		"linkedin":"http://www.linkedin.com/pub/iv%C3%A1n-guardado-castro/21/a68/b29",
+		"plusoneUrl":"https://plus.google.com/108413148044803384848",
+		"publicPlusId":"108413148044803384848",
+		"twitter":"https://twitter.com/ivanguardado",
+		"name":"Iván Guardado",
+		"cargo":"Desarrollador front-end en SocialBro y cofundador de erasmusu.com",
+		"bio":"Creando aplicaciones web desde 2007. He liderado el desarrollo de erasmusu.com, la comunidad de Erasmus más grande de Europa y actualmente trabajo en SocialBro, una herramienta profesional para Twitter que está pegando fuerte. He tenido la suerte de poder trabajar en distintos roles a lo largo de estos años. Gestión de servidores (Debian, Proxmox, Bash), backend (PHP, NodeJS) y frontend (jQuery, AngularJS)."
+	},
+	{
+		"id":"rjimenez",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/rauljimenez.jpg",
+		"linkedin":"http://es.linkedin.com/in/jimenezortegaraul",
+		"plusoneUrl":"https://plus.google.com/u/0/103394787368944111412",
+		"publicPlusId":"103394787368944111412",
+		"twitter":"http://twitter.com/hhkaos",
+		"name":"Raúl Jiménez Ortega",
+		"cargo":"Responsable de desarrollo de negocio en Proenium",
+		"bio":"Ingeniero en informática y MBA por la EOI, Raúl lleva desarrollando proyectos web desde 1999. Conocedor de tecnologías de backend como de frontend, recientemente ha trabajado como frontend developer leader y product manager en Floqq.com donde finalmente ha desarrollado un rol más orientando a resultados. Recientemente se ha unido al equipo de Proenium, empresa que desarrolla tecnología inteligente para vehículos."
+	},
+	
+	{
+		"id":"jjsanchez",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3378455948/197c23de6d2a309830ce4c2b7a3c0f0e_bigger.png",
+		"linkedin":"http://www.linkedin.com/pub/jos%C3%A9-juan-s%C3%A1nchez-hern%C3%A1ndez/6a/858/830",
+		"plusoneUrl":"https://plus.google.com/u/0/110700942765815639630/",
+		"publicPlusId":"110700942765815639630",
+		"twitter":"http://twitter.com/josejuansanchez",
+		"name":"José Juan Sánchez Hernández",
+		"cargo":"Desarrollador Android en Idiria",
+		"bio":"Actualmente trabaja en el grupo de investigación Supercomputación - Algoritmos de la Universidad de Almería y como desarrollador Android para Idiria, una empresa de consultoría y desarrollo personalizado de aplicaciones para dispositivos móviles. También colabora en la comunidad de desarrolladores Android de Almería organizando pequeños eventos sobre Android."
+	},
+	{
+		"id":"davidmerinas",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/davidmerinas.jpg",
+		"linkedin":"http://es.linkedin.com/in/davidmerinas",
+		"plusoneUrl":"https://plus.google.com/101438124041390767441",
+		"publicPlusId":"101438124041390767441",
+		"twitter":"https://twitter.com/davidmerinas",
+		"name":"David Merinas",
+		"cargo":"Gerente en Deidos Estudio y CTO de UNIPimus",
+		"bio":"Físico, programador y emprendedor de Córdoba. Cofundador en 2008 de Deidos Estudio, consultora especializada en diseño web y de UNIPimus en 2012, plataforma que pone en contacto a estudiantes de intercambio en el extranjero con empresas que desean abrirse al mercado internacional. Escribe sobre marketing online y negocios en internet en su blog."
+	},
+	{
+		"id":"juanluis",
+		"thumbnailUrl":"http://sur.gdgdevfest.com/img/speakers/juanluis.jpg",
+		"linkedin":"http://linkedin.com/in/juanluisperez",
+		"plusoneUrl":"https://plus.google.com/110982771381161664187",
+		"publicPlusId":"110982771381161664187",
+		"twitter":"https://twitter.com/jlbofh",
+		"name":"Juan Luis Pérez",
+		"cargo":"Jefe de tecnología y socio fundador en Intelify",
+		"bio":"Jefe de tecnología y socio fundador en Intelify, empresa que investiga y desarrolla aplicativos para facilitar la vida del usuario conectando el mundo físico e internet.<\/p><p>Desde el año 2000, Juan Luis viene diseñando, analizando y desarrollando múltiples proyectos como gestores de procesos y trámites, una plataforma de análisis estadístico de partidas de póker y en los últimos tres años y medio el sistema de información de Intelify que integra, entre otros, sistemas de captura y analítica de flujos de información para smart cities, procesos de identificación del usuario en el mundo físico y su analítica asociada etc."
+	},
+	{
+		"id":"dmunioz",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3753845847/453d46351814aa8805e18f1b1c6a6a9f_bigger.jpeg",
+		"linkedin":"es.linkedin.com/pub/david-muñoz/a/95b/457/es",
+		"plusoneUrl":"https://plus.google.com/107860391799431747371",
+		"publicPlusId":"107860391799431747371",
+		"twitter":"https://twitter.com/dperilla",
+		"name":"David Muñoz Padín",
+		"cargo":"CEO en Quaip LTD",
+		"bio":"CEO en Quaip LTD. Expecialista en Voip, SysAdmin linux, Voip developer, instalo y doy servicio de aplicaciones de elearning, sistemas teléfonicos, hosting/housing, servidores virtualizados con sistemas de alta disponibilidad y failover. Docente en cursos basados en webinars de Linux , virtualización, kamailio y Asterisk con la colaboración de Fundación Guadalux y Avanzada 7. Colaboro con #openwebinars para la divulgación del software libre."		
+	},
+	{
+		"id":"miguelcalero",
+		"thumbnailUrl":"https://pbs.twimg.com/profile_images/3750861482/743fc629f0952aa851d9433c61c8477f_bigger.jpeg",
+		"linkedin":"http://linkedin.com/in/miguelcalero",
+		"plusoneUrl":"https://plus.google.com/u/0/101433956359716876381",
+		"publicPlusId":"101433956359716876381",
+		"twitter":"https://twitter.com/miguelcalero",
+		"name":"Miguel Ángel Calero",
+		"cargo":"Catalizador y gestor en coSfera::coworking en Córdoba",
+		"bio":"Me apasiona saber cómo funcionan las cosas y después probar, cambiar, mejorar, #hacerhacerhacer... unos lo llaman actitud hacker y otros innovación. La civilización tal y como la conocíamos ya no existe, internet lo está cambiando todo, también cómo nos relacionamos, trabajamos y generamos valor, y coSfera es mi excusa para explorar y aprender.<\/p><p>En lo formal, soy padre de dos hijos, Ingeniero Agrónomo de la Universidad de Córdoba con más de 10 años de experiencia en construir ciudad, fundador de PLANEM Ingeniería, Arquitectura y Urbanismo, catalizador y gestor del espacio de coworking coSfera, fundador de CityLabs360 y socio en Caricae Agromediterránea."		
+	}
+]}

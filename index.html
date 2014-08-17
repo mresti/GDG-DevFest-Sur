@@ -1,79 +1,693 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Gdg-devfest-sur : Wedding bootstrap design">
+	<!-- Web app for GoogleChrome -->
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" sizes="128x128" href="img/gdgdevfest_square.png">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  <!-- Title -->
+  <title>GDG DevFest Sur 2013</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+  
+  <!-- Google web fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 
-    <title>Gdg-devfest-sur</title>
-  </head>
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+  <!-- Stylesheets -->
+  <link href="style/bootstrap.css" rel="stylesheet">
+  <link href="style/flexslider.css" rel="stylesheet">
+  <link rel="stylesheet" href="style/font-awesome.css">
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="style/font-awesome-ie7.css">
+  <![endif]-->		
+  <link href="style/style.css" rel="stylesheet">
+  
+  
+  <!-- HTML5 Support for IE -->
+  <!--[if lt IE 9]>
+  <script src="js/html5shim.js"></script>
+  <![endif]-->
 
-  <body>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="img/favicon/favicon.png">
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/mresti/GDG-DevFest-Sur">View on GitHub</a>
+<!-- Google + recommends for mobile devices-->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+    po.src = "https://apis.google.com/js/plusone.js?publisherid=104298429774470156908";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</head>
 
-          <h1 id="project_title">Gdg-devfest-sur</h1>
-          <h2 id="project_tagline">Wedding bootstrap design</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/mresti/GDG-DevFest-Sur/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/mresti/GDG-DevFest-Sur/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+<body>
+    <!-- Bootstrap navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Navegación</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+            </div>
+            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav">
+            <!-- Navigation links. Note down the class name. It is important -->
+            <li><a href="#entradas" class="anchorLink">Entradas</a></li>
+            <li><a href="#informacion" class="anchorLink">Información</a></li>
+            <li><a href="#organizadores" class="anchorLink">Organizadores</a></li>
+						<li><a href="#ponentes" class="anchorLink">Ponentes</a></li>
+						<li><a href="#programa" class="anchorLink">Programa</a></li>
+						<li><a href="#colaboradores" class="anchorLink">Colaboradores</a></li>
+            <li><a href="#patrocinadores" class="anchorLink">Patrocinadores</a></li>
+			<li><a href="#masinfo" class="anchorLink">Más...</a></li>
+            </ul>
+            </nav>
+        </div>
     </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+    <a name="entradas" id="entradas"></a>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="hero">
+                    <!-- Getting married -->
+                    <h1>¡Hasta el próximo GDG DevFest Sur!</h1>
+                    <div class="well">
+                    <!-- date -->
+                    <h3>Será en 2014...</h3>
+                    <!-- Use the below link to create line with heartin -->
+                    <!-- Name -->
+                    <img src="img/gdgdevfest.png" height="130" alt="" />
+                    <!-- Small para -->
+                    <p>Todo un éxito este evento. Gracias a coSfera, Deidos, Zendeweb, Sopinet, Esteban, Antonio Fernández, Miguel Calero... ¡y a todos vosotros!</p>
+                    </div>
+                    <!-- Button. Note down the class "button" -->
+                    <div class="row">
+<!--                      <a class="action-button" href="http://intelify.net/eventos/gdgdevfestsur2013">¡Consigue tu entrada!</a>-->
+                      <a href="https://play.google.com/store/apps/details?id=com.gdgdevfest.android.apps.devfestsur&hl=es" title="Descarga la app para  Android"><img src="img/google-play.png" alt="Descarga la app en Play Store"/></a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<a name="informacion" id="informacion"></a>
+   <div class="border"></div>
+   
+   <div class="aboutus">
+      <div class="container">
+        <div class="row">
+         <div class="col-md-12">
+            <div class="head">
+               <h2>Información</h2>
+               <div class="bor"></div>
+            </div>
+         </div>
+          <div class="col-md-8">
+            <div class="well">
+              Los GDG DevFest son eventos a gran escala dirigidos por la comunidad y para la comunidad que se celebran anualmente por todo el mundo. Cada uno de los eventos está organizado por una comunidad local de desarrolladores que, en base a los intereses de dicha comunidad, elaboran su agenda y contenidos. La temática de los DevFest suele estar relacionada con productos de Google. Aunque no hay dos DevFest iguales, todos están alimentados por la creencia de que cuando los desarrolladores se reúnen para intercambiar ideas, cosas increíbles pueden suceder.
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+GDG DevFest Sur inicia la aventura de organizar un DevFest para el sur de España entre los GDGs de Córdoba, Granada, Murcia y Sevilla.
+            </div>
+          </div>
+          <div class="col-md-4">
+            <iframe width="410" height="330" src="http://www.youtube.com/embed/6FqYwhzhI_c" frameborder="0" allowfullscreen=""></iframe>
+          </div>
+        </div>
+      </div>
+   </div>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+<a name="organizadores" id="organizadores"></a>
+  <div class="border"></div>
 
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+  <div class="organizadores">
+    <div class="container">
+        <div class="row">
+         <div class="col-md-12">
+            <div class="head">
+               <h2>Organizadores</h2>
+               <div class="bor"></div>
+            </div>
+         </div>
+        </div>
+        <div class="well">
+          El DevFest es organizado por los siguientes GDGs:
+          <div class="row">
+            <div class="col-md-6">
+              <a href="https://plus.google.com/106302567584201009963" target="_blank"><img width="100%" src="img/gdgcordoba.png" alt="GDG Cordoba"></a>
+            </div>
+            <div class="col-md-6">
+              <a href="https://plus.google.com/107621838547829286968" target="_blank"><img width="100%" src="img/gdggranada.png" alt="GDG Granada"></a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <a href="https://plus.google.com/107657001882433902492" target="_blank"><img width="100%" src="img/gdgmurcia.png" alt="GDG Murcia"></a>
+            </div>
+            <div class="col-md-6">
+              <a href="https://plus.google.com/117186888160178861350" target="_blank"><img width="100%" src="img/gdgsevilla.png" alt="GDG Sevilla"></a>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+<a name="ponentes" id="ponentes"></a>
+  <div class="border"></div>
 
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+  <div class="ponentes">
+    <div class="container">
+        <div class="row">
+         <div class="col-md-12">
+            <div class="head">
+               <h2>Ponentes</h2>
+               <div class="bor"></div>
+            </div>
+         </div>
+        </div>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+        <div class="row">
+          <div class="span12">
+               <div class="about" id="ponente_artiles">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/alfredoartiles"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/aartiles24"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/108635286356285102317"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Alfredo Artiles<span class="ameta">SocialBro Co-founder and CTO</span></h3>
+                  <p><img src="img/speakers/alfredoartiles.jpg" alt="" class="img-circle"/>Licenciado en Ciencias de la Computación, lleva 15 años desarrollando proyectos en Internet. Co-fundador y CTO de SocialBro.com, una herramienta de analítica y gestión de audiencias en Twitter nacida en Córdoba y que cuenta con 180,000 usuarios y más de 3,000 clientes en todo el mundo.</p>
+                  <div style="clear:both"></div>
+               </div>
 
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+               <div class="about" id="ponente_asier">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/asierarranz"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/asierarranz"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/108749679517324971736"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Asier Arranz<span class="ameta">Co-fundador de UndoSpace</span></h3>
+                  <p><img src="img/speakers/asierarranz.jpg" alt="" class="img-circle"/>I have a very strong knowledge in all technology áreas, combined with business skills adquired though my 2 startups Nebutek & Atlanpix (1 alive, 1 failed).</p><p>I raised an investment from Wayra Spain, and made technical due diligences to Job and Talent, Blink and Mimub. Months later JobandTalent raised $3.3M and Blink was adquired by Groupon.</p><p>I have been Global Developer Advisor for Campus Party Europe; Leader and organizer of NASA Space Apps Challenge in Spain, TEDx Speaker (Talk: \"Virtual reality, real perception: Tricking our brain\"), teacher at IE Business School and Repsol. Mentor at Startup Weekend, NetDay and Acelera X2 Colombia. I have made tech demostrations at Microsoft and Telefónica. And I usually collaborate teaching technology activities for kids.</p>
+                  <div style="clear:both"></div>
+               </div>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
 
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+               <div class="about" id="ponente_aromeo">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/alfredoromeo"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/aromeo"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/108696100362557238756"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Alfredo Romeo<span class="ameta">CEO at Intelify, nowadays, connecting objects and people to the Internet</span></h3>
+                  <p><img src="img/speakers/alfredoromeo.jpg" alt="" class="img-circle"/>Emprendedor en serie e interesado por la información que nos rodea, dirige Intelify, empresa que hace la vida más fácil a los usuarios a través de automatizaciones de procesos en tareas cotidianas.</p><p>Ha diseñado, desarrollado y llevado a cabo múltiples proyectos pioneros de base tecnológica. Entre ellos destaca Blobject, el primer servicio de alquiler de coches eléctricos con GPS para visitar ciudades (2004); Cordobapedia, enciclopedia de Córdoba con más de un millón de visitas anuales (2005); la creación de un sistema analítico y estadístico de póker online junto a Los Pelayos (2010); o el diseño del primer sistema de información de la fiesta de los Patios de Córdoba (2013). Además, viene impartiendo conferencias y clases desde el año 2000 hablando sobre su principal pasión: el impacto de las TIC en el mundo actual.</p>
+                  <div style="clear:both"></div>
+               </div>
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
+
+               <div class="about" id="ponente_julianmb">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/julianmb"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/julianmb"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/102043168453367495516"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Julián Muñoz Beltrán<span class="ameta">CEO at Droiders</span></h3>
+                  <p><img src="https://pbs.twimg.com/profile_images/3287377834/e88d8a19972ae8c6970bd3c01c8019c3_bigger.png" alt="" class="img-circle"/>Engineer | Entrepreneur | @GoogleGlass pioneer | CEO @Droiders @droidconES @GDG Organizer | Hungry and foolish.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+
+
+               <div class="about" id="ponente_nacho">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/neonigmacdb‎"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/neonigmacdb"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/115648284449607745671"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>José Ignacio Álvarez<span class="ameta">Software Developer at WUL4</span></h3>
+                  <p><img src="https://si0.twimg.com/profile_images/1554458558/4twitter_bigger.png" alt="" class="img-circle"/>Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+
+               <div class="about" id="ponente_jgutierrez">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="https://plus.google.com/111076905746463321105"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Javier Gutierrez<span class="ameta">Profesor en Universidad de Sevilla</span></h3>
+                  <p><img src="img/speakers/javier.png" alt="" class="img-circle"/>Formador especializado en ingeniería del software, metodologías en administraciones públicas y prueba del software.</p><p>Especialidades: ingeniería del software, desarrollo de sistemas de información en administraciones públicas, prueba del software.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+
+               <div class="about" id="ponente_hidabe">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/hidabe"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/hidabe"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/109623390521488791490‎"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Fernando Hidalgo<span class="ameta">Analista/Programador, fundador de Sopinet</span></h3>
+                  <p><img src="https://si0.twimg.com/profile_images/2292970656/k2ij8tnox9mkiiigltdt_bigger.png" alt="" class="img-circle"/>Desarrollador web y tecnologías smartphones, analista\/programador, mantenimiento de sistemas y servidores linux.<\/p><p>Fundador de la empresa Sopinet, donde desarrollamos soluciones web\/app sencillas para problemas no triviales.<\/p><p>Me gusta ser ágil, eficaz y profesional en mi trabajo. Hago uso de frameworks, proyectos software libre y amo los gestores de dependencias y la modularización como vía para agilizar proyectos al máximo.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_rserrano">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="https://twitter.com/akelael"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/107355249636672330536‎"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Rubén Serrano<span class="ameta">Mobile Software Engineer</span></h3>
+                  <p><img src="img/speakers/rubenserrano.jpg" alt="" class="img-circle"/>Apasionado del desarrollo para plataformas móviles, en los últimos años se ha especializado en Android. Ha trabajado como becario, desarrollador y profesor de universidad, y no por ello la tiene más grande (la Fuerza). En sus ratos libres le gusta participar del drama que supone organizar el GDG Barcelona.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_cponce">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/claudioponce"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/ClaudioPonce"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/111805762735415754280"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Claudio Ponce<span class="ameta">Cofundador y CEO de GudyMail</span></h3>
+                  <p><img src="img/speakers/claudioponce.jpg" alt="" class="img-circle"/>Emprendedor de productos tecnológicos basados en la comunicación y formación  online a través del vídeo como, GudyMail, decisionesestrategicas.com y plataformaselearning.net.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_aleonar">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/aleonar"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://plus.google.com/104070495650441591893"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Andrés Leonardo<span class="ameta">Developer Program Manager, Google</span></h3>
+                  <p><img src="img/speakers/andresleonardo.jpg" alt="" class="img-circle"/>Andrés es Developer Relations Program Manager para Google en España. Con una amplia experiencia en I+D e ingeniería del software, gran parte de su carrera profesional se ha centrado en la planificación e implementación de proyectos de innovación relacionados con los paradigmas de OpenSource, trabajando anteriormente para empresas como Telefónica.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_jjrider">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/juanjoseriderjimenez"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/jjriderWUL4"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/117460846665715879148"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Juan José Rider<span class="ameta">CEO de WUL4</span></h3>
+                  <p><img src="img/speakers/juanjoserider.jpg" alt="" class="img-circle"/>Juan José Rider Jiménez es el CEO de WUL4. Con más de 13 años de experiencia en medios de pago, Juan José proporciona servicios relacionados con la seguridad, tecnología y normativa (PCI, EMV, VbV, etc) a los más importantes players de los medios de pago de España y Europa. Especialista de desarrollo seguro, hacking ético, seguridad en las aplicaciones móviles, maniático innovador (más que emprendedor), esposo y orgulloso padre de tres princesas. Siempre ligado al mundo de los medios de pago, desarrolla e implementa la principal pasarela de pagos virtual de España. Colaborador de iniciativas como OWASP, de la que es miembro desde hace 5 años e imparte ponencias.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_iguardado">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/pub/iv%C3%A1n-guardado-castro/21/a68/b29"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/ivanguardado"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/108413148044803384848"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Iván Guardado<span class="ameta">Desarrollador front-end en SocialBro y cofundador de erasmusu.com</span></h3>
+                  <p><img src="img/speakers/ivanguardado.jpg" alt="" class="img-circle"/>Creando aplicaciones web desde 2007. He liderado el desarrollo de erasmusu.com, la comunidad de Erasmus más grande de Europa y actualmente trabajo en SocialBro, una herramienta profesional para Twitter que está pegando fuerte. He tenido la suerte de poder trabajar en distintos roles a lo largo de estos años. Gestión de servidores (Debian, Proxmox, Bash), backend (PHP, NodeJS) y frontend (jQuery, AngularJS).</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_rjimenez">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/jimenezortegaraul"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/hhkaos"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/103394787368944111412"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Raúl Jiménez Ortega<span class="ameta">Responsable de desarrollo de negocio en Proenium</span></h3>
+                  <p><img src="img/speakers/rauljimenez.jpg" alt="" class="img-circle"/>Ingeniero en informática y MBA por la EOI, Raúl lleva desarrollando proyectos web desde 1999. Conocedor de tecnologías de backend como de frontend, recientemente ha trabajado como frontend developer leader y product manager en Floqq.com donde finalmente ha desarrollado un rol más orientando a resultados. Recientemente se ha unido al equipo de Proenium, empresa que desarrolla tecnología inteligente para vehículos.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_jjsanchez">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/pub/jos%C3%A9-juan-s%C3%A1nchez-hern%C3%A1ndez/6a/858/830"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/josejuansanchez"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/110700942765815639630"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>José Juan Sánchez Hernández<span class="ameta">Desarrollador Android en Idiria</span></h3>
+                  <p><img src="https://pbs.twimg.com/profile_images/3378455948/197c23de6d2a309830ce4c2b7a3c0f0e_bigger.png" alt="" class="img-circle"/>Actualmente trabaja en el grupo de investigación Supercomputación - Algoritmos de la Universidad de Almería y como desarrollador Android para Idiria, una empresa de consultoría y desarrollo personalizado de aplicaciones para dispositivos móviles. También colabora en la comunidad de desarrolladores Android de Almería organizando pequeños eventos sobre Android.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_davidmerinas">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/davidmerinas"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/davidmerinas"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/101438124041390767441"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>David Merinas<span class="ameta">Gerente en Deidos Estudio y CTO de UNIPimus</span></h3>
+                  <p><img src="img/speakers/davidmerinas.jpg" alt="" class="img-circle"/>Físico, programador y emprendedor de Córdoba. Cofundador en 2008 de Deidos Estudio, consultora especializada en diseño web y de UNIPimus en 2012, plataforma que pone en contacto a estudiantes de intercambio en el extranjero con empresas que desean abrirse al mercado internacional. Escribe sobre marketing online y negocios en internet en su blog.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_juanluis">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/juanluisperez"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/jlbofh"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/110982771381161664187"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Juan Luis Pérez<span class="ameta">Jefe de tecnología y socio fundador en Intelify</span></h3>
+                  <p><img src="img/speakers/juanluis.jpg" alt="" class="img-circle"/>Jefe de tecnología y socio fundador en Intelify, empresa que investiga y desarrolla aplicativos para facilitar la vida del usuario conectando el mundo físico e internet.<\/p><p>Desde el año 2000, Juan Luis viene diseñando, analizando y desarrollando múltiples proyectos como gestores de procesos y trámites, una plataforma de análisis estadístico de partidas de póker y en los últimos tres años y medio el sistema de información de Intelify que integra, entre otros, sistemas de captura y analítica de flujos de información para smart cities, procesos de identificación del usuario en el mundo físico y su analítica asociada etc.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_dmunioz">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="es.linkedin.com/pub/david-muñoz/a/95b/457/es"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/dperilla"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/107860391799431747371"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>David Muñoz Padín<span class="ameta">CEO en Quaip LTD</span></h3>
+                  <p><img src="https://pbs.twimg.com/profile_images/3753845847/453d46351814aa8805e18f1b1c6a6a9f_bigger.jpeg" alt="" class="img-circle"/>CEO en Quaip LTD. Expecialista en Voip, SysAdmin linux, Voip developer, instalo y doy servicio de aplicaciones de elearning, sistemas teléfonicos, hosting/housing, servidores virtualizados con sistemas de alta disponibilidad y failover. Docente en cursos basados en webinars de Linux , virtualización, kamailio y Asterisk con la colaboración de Fundación Guadalux y Avanzada 7. Colaboro con #openwebinars para la divulgación del software libre.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+               <div class="about" id="ponente_miguelcalero">
+                  <!-- Groom details with photo -->
+                  <div class="rrss">
+                    <a href="http://www.linkedin.com/in/miguelcalero"><img src="img/rrss/LinkedIn.png"></a> 
+                    <a href="https://twitter.com/miguelcalero"><img src="img/rrss/Twitter.png"></a>
+                    <a href="https://plus.google.com/101433956359716876381"><img src="img/rrss/Google.png"></a>
+                  </div>
+                  <h3>Miguel Ángel Calero<span class="ameta">Catalizador y gestor en coSfera::coworking en Córdoba</span></h3>
+                  <p><img src="https://pbs.twimg.com/profile_images/3750861482/743fc629f0952aa851d9433c61c8477f_bigger.jpeg" alt="" class="img-circle"/>Me apasiona saber cómo funcionan las cosas y después probar, cambiar, mejorar, #hacerhacerhacer... unos lo llaman actitud hacker y otros innovación. La civilización tal y como la conocíamos ya no existe, internet lo está cambiando todo, también cómo nos relacionamos, trabajamos y generamos valor, y coSfera es mi excusa para explorar y aprender.<\/p><p>En lo formal, soy padre de dos hijos, Ingeniero Agrónomo de la Universidad de Córdoba con más de 10 años de experiencia en construir ciudad, fundador de PLANEM Ingeniería, Arquitectura y Urbanismo, catalizador y gestor del espacio de coworking coSfera, fundador de CityLabs360 y socio en Caricae Agromediterránea.</p>
+                  <div style="clear:both"></div>
+               </div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+  </div>
+
+
+
+
+
+
+		<a name="programa" id="programa"></a>
+  <div class="border"></div>
+
+  <div class="programa">
+    <div class="container">
+      <div class="row">
+       <div class="col-md-12">
+        <div class="head">
+           <h2>Programa</h2>
+           <div class="bor"></div>
+        </div>
+       </div>
+      </div>
+      <div id="tablaprograma" class="about">
+        <div id="cabecera">
+          <div class="row">
+            <div class="col-md-2 cabecera columna0"><span>Hora</span></div>
+            <div class="col-md-5 aligncenter2 cabecera columna1">
+              <span>Track Tecnología</span>
+            </div>
+            <div class="col-md-5 aligncenter2 cabecera columna2">
+              <span>Track Emprendedor</span>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">09:00</div>
+          <div class="col-md-10 solouna"><span>Checkin - <small>Camiseta para los primeros en llegar</small></span></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">09:30</div>
+          <div class="col-md-10 solouna"><span>Presentación - <small>¡Comienza el GDG DevFest Sur!</small></span></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">10:00</div>
+          <div class="col-md-5 columna1"><span>Realidad aumentada en Android. Reconocimiento de imágenes y geolocalización usando Google Maps.</span><small style="float:right"><a href="#ponente_nacho">José Ignacio Álvarez</a> </small></div>
+          <div class="col-md-5 columna2"><span>La ética hacker aplicada al trabajo. El caso de Intelify</span><small style="float:right"><a href="#ponente_aromeo">Alfredo Romeo</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">10:45</div>
+          <div class="col-md-5 columna1"><span>Las claves del Desarrollo Dirigido por Pruebas (o TDD)</span><small style="float:right"><a href="#ponente_jgutierrez">Javier Gutierrez</a> </small></div>
+          <div class="col-md-5 columna2"><span>Google Wallet: Pagos presenciales y e-commerce. Cómo funciona en Android</span><small style="float:right"><a href="#ponente_jjrider">Juan José Rider</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">11:30</div>
+          <div class="col-md-10 solouna"><span>Café - <small>¿Has visto nuestras GoogleGlass?</small></span></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">12:00</div>
+          <div class="col-md-5 columna1"><span>Web 3.0: WebRTC</span><small style="float:right"><a href="#ponente_dmunioz">David Muñoz Padín</a> </small></div>
+          <div class="col-md-5 columna2"><span>Herramientas de optimización, un enfoque práctico.</span><small style="float:right"><a href="#ponente_rjimenez">Raúl Jiménez Ortega</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">12:45</div>
+          <div class="col-md-5 columna1"><span>Angular JS: De dónde venimos y a dónde vamos.</span><small style="float:right"><a href="#ponente_iguardado">Iván Guardado</a> </small></div>
+          <div class="col-md-5 columna2"><span>Búsqueda de mercados internacionales para una Startup</span><small style="float:right"><a href="#ponente_cponce">Claudio Ponce</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">13:30</div>
+          <div class="col-md-5 columna1"><span>Maven en Android</span><small style="float:right"><a href="#ponente_hidabe">Fernando Hidalgo</a> </small></div>
+          <div class="col-md-5 columna2"><span>Cómo encontrar socio tecnológico</span><small style="float:right"><a href="#ponente_davidmerinas">David Merinas</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">14:00</div>
+          <div class="col-md-5 columna1"><span>Android Services</span><br/><small style="float:right"><a href="#ponente_jjsanchez">José Juan Sánchez Hernández</a> </small></div>
+          <div class="col-md-5 columna2"><span>Métricas con Google Analytics</span><br/><small style="float:right"><a href="#ponente_aleonar">Andrés Leonardo</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">14:30</div>
+          <div class="col-md-10 solouna"><span>Comida - <small>¿Y si te sobra tiempo y visitas nuestro stand de ChromeCast?</small></span></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">16:00</div>
+          <div class="col-md-2 columna1"><span>Espacio HACK</span><small style="float:right"></small></div>
+          <div class="col-md-1"></div>
+          <div class="col-md-2 columna1"><span>Grupo de trabajo GWT</span><br/><small style="float:right"><a href="#ponente_juanluis">Juan Luis Pérez</a> </small></div>
+          <div class="col-md-5 columna2"><span>Realidad virtual, percepción real.</span><br/><small style="float:right"><a href="#ponente_asier">Asier Arranz</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">16:45</div>
+          <div class="col-md-2 columna1"><span>Espacio HACK</span><small style="float:right"></small></div>
+          <div class="col-md-1"></div>
+          <div class="col-md-2 columna1"><span>Grupo de trabajo GWT</span><br/><small style="float:right"><a href="#ponente_juanluis">Juan Luis Pérez</a> </small></div>
+          <div class="col-md-5 columna2"><span>Cuentos de la cripta: utilizando App Engine como backend para Android</span><br/><small style="float:right"><a href="#ponente_rserrano">Rubén Serrano</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">17:30</div>
+          <div class="col-md-10 solouna">
+            <span>Café - <small>Hagamos un Kitkat, alguna Nexus caerá</small></span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">18:00</div>
+          <div class="col-md-2 columna1"><span>Espacio HACK</span><small style="float:right"></small></div>
+          <div class="col-md-1"></div>
+          <div class="col-md-2 columna1"><span>Grupo de trabajo GWT</span><br/><small style="float:right"><a href="#ponente_juanluis">Juan Luis Pérez</a> </small></div>
+          <div class="col-md-5 columna2"><span>Google Glass</span><br/><small style="float:right"><a href="#ponente_julianmb">Julián Muñoz Beltrán</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">18:45</div>
+          <div class="col-md-2 columna1"><span>Espacio HACK</span><br /><small style="float:right"></small></div>
+          <div class="col-md-1"></div>
+          <div class="col-md-2 columna1"><span>Grupo de trabajo GWT</span><br/><small style="float:right"><a href="#ponente_juanluis">Juan Luis Pérez</a> </small></div>
+          <div class="col-md-5 columna2"><span>Entreprenuerlopers</span><br/><small style="float:right"><a href="#ponente_artiles">Alfredo Artiles</a> </small></div>
+          </div>
+        <div class="row">
+          <div class="col-md-2">19:30</div>
+          <div class="col-md-2 columna1"><span>Espacio HACK</span><small style="float:right"></small></div>
+          <div class="col-md-1"></div>
+          <div class="col-md-2 columna1"><span>Grupo de trabajo GWT</span><br/><small style="float:right"><a href="#ponente_juanluis">Juan Luis Pérez</a> </small></div>
+          <div class="col-md-5 columna2"><span>Comunidades de aprendizaje e innovación</span><br/><small style="float:right"><a href="#ponente_miguelcalero">Miguel Ángel Calero</a> </small></div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">20:00</div>
+          <div class="col-md-10 solouna">
+            <span>After party - <small>Que mañana es festivo...</small></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+<a name="colaboradores" id="colaboradores"></a>
+  <div class="border"></div>
+
+  <div class="colaboradores">
+    <div class="container">
+        <div class="row">
+         <div class="col-md-12">
+            <div class="head">
+               <h2>Colaboradores</h2>
+               <div class="bor"></div>
+            </div>
+         </div>
+        </div>
+
+        <div class="col-md-3">
+            <p><a href="http://www.cosfera.es/" target="_blank"><img width="160" height="150" src="img/coSfera_vertical.png" title="coSfera" alt="coSfera" border="0"></a></p>
+        </div>
+
+        <div class="col-md-3">
+            <p><a href="http://www.deidos.com/" target="_blank"><img width="160" height="150" src="img/logo_deidos_cuadrado.png" title="Deidos Studio" alt="Deidos Studio" border="0"></a></p>
+        </div>
+
+        <div class="col-md-3">
+            <p><a href="http://sopinet.com/" target="_blank"><img width="140" height="140" src="img/sopinet_cuadrado_alta.png" title="Sopinet" alt="Sopinet" border="0"></a></p>
+        </div>
+
+        <div class="col-md-3">
+            <p><a href="http://zendeweb.com/" target="_blank"><img width="220" height="130" src="img/zendeweb_cuadrado.png" title="Zendeweb" alt="Zendeweb" border="0"></a></p>
+        </div>
+    </div>
+  </div>
+
+
+<a name="patrocinadores" id="patrocinadores"></a>
+  <div class="border"></div>
+
+  <div class="patrocinadores">
+    <div class="container">
+        <div class="row">
+         <div class="col-md-12">
+            <div class="head">
+               <h2>Patrocinadores</h2>
+               <div class="bor"></div>
+            </div>
+         </div>
+        </div>
+
+        <div class="col-md-12">
+            <div class="head well">
+              <h3>DIAMANTE</h3>
+            </div>
+            <p><a href="https://www.google.com/" target="_blank"><img src="img/Google_Logo.png" title="Google" alt="Google" border="0"></a></p>
+            <div class="head well">
+              <h3>ORO</h3>
+            </div>
+            <p>
+            <a href="http://www.uco.es/organizacion/consejosocial" target="_blank">
+              <img width="220" height="140"  src="img/consejo_social_uco_logo_1.png" title="Consejo Social de la UCO" alt="Consejo Social de la UCO" border="0">
+              <img width="230" height="110" src="img/consejo_social_uco_logo_2.png" title="Consejo Social de la UCO" alt="Consejo Social de la UCO" border="0">
+            </a>
+            <a href="http://www.uloyola.es/" target="_blank">
+              <img src="img/loyola_logo.png" title="Universidad Loyola" alt="Universidad Loyola" border="0">
+            </a>
+            </p>
+            <div class="head well">
+              <h3>PLATA</h3>
+            </div>
+            <p>
+            <a href="http://deblur.es/" target="_blank">
+              <img width="220" height="80"  src="img/deblur_logo.jpg" title="deBlur Comunicación" alt="deBlur Comunicación" border="0">
+            </a>
+              <a href="http://intelify.net/" target="_blank">
+                <img width="295" height="80" src="img/intelify_logo.png" title="Intelify" alt="Intelify" border="0">
+              </a>
+            </p>
+        </div>
+
+    </div>
+  </div>
+
+<!-- Footer -->
+<footer>
+  <div id="masinfo" class="container">
+    <div class="row">
+      <div  class="col-md-12">
+            <div class="head">
+               <h2>Localización</h2>
+               <div class="bor"></div>
+            </div>
+            <div class="well">
+              <h5 class="aligncenter">Rectorado de la Universidad de Córdoba. Avenida Medina Azahara s/n</h5>
+            </div>
+            <div id="map">
+              <!-- Location map renders through Google Maps API V3-->
+            </div>
+      </div>
+    </div>
+	<div class="row" id="#concursos">
+      <div class="col-md-12">
+            <div class="head">
+               <h2>Concurso Twitter</h2>
+               <div class="bor"></div>
+            </div>
+            <div class="well">
+              <strong>El m&aacute;s tuitero se llevar&aacute; un fant&aacute;stico Chromecast</strong>
+			  <p>Ser el que m&aacute;s utilice el hashtag #DevFestSur te puede llevar a conseguir un Chromecast. Para ello solo debes tener en cuenta las siguientes bases del concurso y ser el que m&aacute;s tuits publica con su cuenta de Twitter.</p>
+			  <p><strong>Bases</strong></p>
+			  <ul>
+				<li>Para que el tuit contabilice debe incluir el hashtag #DevFestSur</li>
+				<li>Los Retuits tambi&eacute;n cuentan para el concurso</li>
+				<li>El periodo para acumular tuits comienza el 25/10/2013 a las 0:00h y termina al finalizar el evento, es decir, a las 19:00h del 31/10/2013.</li>
+				<li>El ganador/a debe estar inscrito en el evento y presente para recoger el regalo.</li>
+				<li>Los que acaben entre las 5 primeras pposiciones de la clasificaci&oacute;n final tendr&aacute;n un premio de consolaci&oacute;n.</li>
+				<li>El recuento de los tuits se realizan a trav&eacute;s de un servicio externo a la organizaci&oacute;n del evento, por lo que no nos responsabilizamos de la veracidad de los mismos.</li>
+				<li>No se admiten cuentas creadas para la ocasión, ni clones, ni spammers, ni cualquier otro comportamiento que pueda considerarse fraudulento o anómalo.</li>
+				<li>La organización se reserva el derecho de descalificar a cualquier usuario que no cumpla con estos requisitos.</li>
+				<li>Se puede seguir la evolución del concurso <a href="https://www.hashtracking.com/reports/devfestsur/devfestsur/concurso">aqu&iacute;</a>.</li>
+			  </ul>
+			  <p>Mucha suerte a todos/as los participantes.</p>
+            </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+            <p>Contacta con nosotros - Escríbenos a <a href="mailto:gdgdevfestsur@gmail.com">gdgdevfestsur@gmail.com</a></p>
+            <div class="border"></div>
+      </div>
     </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Gdg-devfest-sur maintained by <a href="https://github.com/mresti">mresti</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+  <div class="clearfix"></div>
 
-    
+  </div>
+</footer>
+<!-- JS -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/jquery.anchor.js"></script>
+<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+<script src="js/custom.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  </body>
+  ga('create', 'UA-44336207-1', 'gdgdevfest.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
 </html>

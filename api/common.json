@@ -1,0 +1,47 @@
+{
+  "day": [
+   
+    {
+      "date": "2013-10-31",
+      
+      "slot": [
+        {
+          "start": "02:00",
+          "end": "02:30",
+          "title": "Checkin",
+          "meta": "Camiseta para los primeros en llegar"
+        },
+        {
+          "start": "02:30",
+          "end": "03:00",
+          "title": "Presentación",
+          "meta": "¡Comienza el GDG DevFest Sur!"
+        },
+        {
+          "start": "04:30",
+          "end": "05:00",
+          "title": "Café",
+          "meta": "¿Has visto nuestras GoogleGlass?"
+        },
+        {
+          "start": "07:30",
+          "end": "09:00",
+          "title": "Comida",
+          "meta": "¿Y si te sobra tiempo y visitas nuestro stand de ChromeCast?"
+        },
+        {
+          "start": "10:30",
+          "end": "11:00",
+          "title": "Café",
+          "meta": "Hagamos un Kitkat, alguna Nexus caerá"
+        },
+        {
+          "start": "13:00",
+          "end": "17:00",
+          "title": "After party",
+          "meta": "Que mañana es festivo..."
+        }
+      ]
+    }
+  ]
+}

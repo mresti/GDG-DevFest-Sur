@@ -1,0 +1,34 @@
+{
+  "rooms": [
+    {
+      "id": "bar",
+      "name":"Bar",
+      "floor": "1"
+    },
+    {
+      "id": "sala_tech",
+      "name":"Sala Tecnología",
+      "floor": "1"
+    },
+    {
+      "id": "sala_emp",
+      "name":"Sala Emprendedor",
+      "floor": "1"
+    },
+    {
+      "id": "sala_cen",
+      "name":"Sala Central",
+      "floor": "1"
+    },
+    {
+      "id": "sala_hack",
+      "name":"Sala Espacio Hacker",
+      "floor": "1"
+    },
+    {
+      "id": "sala_gru",
+      "name":"Sala Grupos de trabajo",
+      "floor": "1"
+    }
+	]
+}

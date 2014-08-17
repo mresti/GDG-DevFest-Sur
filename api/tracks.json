@@ -1,0 +1,36 @@
+{
+ "track": [
+   {
+     "id": "tech",
+     "name": "Tecnología",
+     "level": 1,
+     "order_in_level": 1,
+     "color": "#99cc00",
+     "abstract": "Móvil"
+   },
+   {
+     "id": "entr",
+     "name": "Emprendimiento",
+     "level": 1,
+     "order_in_level": 2,
+     "color": "#0294c7",
+     "abstract": "Emprendimiento"
+   },
+     {
+     "id": "hack",
+     "name": "Espacio Hacker",
+     "level": 1,
+     "order_in_level": 3,
+     "color": "#f7c53d",
+     "abstract": "Tecnología"
+   },
+     {
+     "id": "group",
+     "name": "Grupos de trabajo",
+     "level": 1,
+     "order_in_level": 5,
+     "color": "#da4b3f",
+     "abstract": "Codelab"
+   }
+	]
+}

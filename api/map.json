@@ -1,0 +1,33 @@
+{
+    "config": {
+        "enableMyLocation" : "false"
+    },
+   
+    "markers" : {
+    "0" : [
+            {
+                "id": "Rectorado",
+                "type": "label",
+                "lat": 37.88474434096118,
+                "lng": -4.78853702545166,
+                "title": "Rectorado"
+            }
+        ],
+        "1": [
+            {
+                "id": "sala_tech",
+                "type": "session",
+                "lat": 37.88474434096118,
+                "lng": -4.78853702545166,
+                "title": "Sala Tech"
+            },
+            {
+                "id": "sala_entr",
+                "type": "session",
+                "lat": 37.88474434096118,
+                "lng": -4.78853702545166,
+                "title": "Sala Entr"
+            }
+				]
+    }
+}
